@@ -2,14 +2,34 @@
 
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 15px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
 }
 
 h1, h2, h3, h4, h5, h6 {
+  font: 15px/1.5 AvenirNextCondensed-Medium, Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#222;
   margin:0 0 20px;
+  font-weight:400;
+}
+
+h1 {
+    font-size: 48px;
+    /* text-align: center; */
+    margin-bottom: 0;
+    padding-bottom: 20px
+}
+
+h1 span {
+    font-family: AvenirNextCondensed-UltraLight, sans-serif;
+    font-weight:100;
+}
+
+h2 {
+    position: relative;
+    text-transform: uppercase;
+    font-size: 32px;
 }
 
 p, ul, ol, table, pre, dl {
@@ -18,10 +38,6 @@ p, ul, ol, table, pre, dl {
 
 h1, h2, h3 {
   line-height:1.1;
-}
-
-h1 {
-  font-size:28px;
 }
 
 h2 {
