@@ -1,0 +1,41 @@
+[{
+    "author": "Andy Weir",
+    "date": "June",
+    "format": "hard-cover",
+    "genre": "fiction",
+    "language": "German",
+    "length": "512",
+    "new": "new",
+    "rating": 4,
+    "title": "Der Marsianer"
+}, {
+    "author": "Fjodor Dostojewski",
+    "date": "June",
+    "format": "soft-cover",
+    "genre": "non-fiction",
+    "language": "German",
+    "length": "62",
+    "new": "new",
+    "rating": 6,
+    "title": "Der Großinquisitor"
+}, {
+    "author": "Christoph Ransmayr",
+    "date": "xxx",
+    "format": "soft-cover",
+    "genre": "non-fiction",
+    "language": "German",
+    "length": "464",
+    "new": "new",
+    "rating": 5,
+    "title": "Atlas eines ängstlichen Mannes"
+}, {
+    "author": "Matthias Politycki",
+    "date": "xxx",
+    "format": "soft-cover",
+    "genre": "fiction",
+    "language": "German",
+    "length": "397",
+    "new": "new",
+    "rating": 0,
+    "title": "Samarkand Samarkand"
+}]

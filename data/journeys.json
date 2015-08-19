@@ -1,0 +1,11 @@
+[{
+    "country": "Germany",
+    "place": "Leipzig",
+    "duration": "4",
+    "packlist": "foo"
+}, {
+    "country": "Italy",
+    "place": "Tuscany",
+    "duration": "7",
+    "packlist": "bar"
+}]
