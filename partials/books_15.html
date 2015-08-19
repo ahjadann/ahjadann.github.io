@@ -1,0 +1,39 @@
+<div class="row">
+  <div class="col-md-12">
+    <p>
+      <a href="#/home"><i class="fa fa-chevron-left"></i> back home</a>
+    </p>
+    <h1>Books 2015</h1>
+    <table class="table table-striped" ng-controller="BookCtrl">
+      <thead>
+        <tr>
+          <th>date</th>
+          <th>title</th>
+          <th>author</th>
+          <th>language</th>
+          <!-- <th>format</th> -->
+          <th>length</th>
+          <th>genre</th>
+          <th>new/reread</th>
+          <th>rating</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr ng-repeat="book in books">
+          <td>{{ book.date }}</td>
+          <td>{{ book.title }}</td>
+          <td>{{ book.author }}</td>
+          <td>{{ book.language }}</td>
+          <!-- <td>{{ book.format }}</td> -->
+          <td>{{ book.length }}</td>
+          <td>{{ book.genre }}</td>
+          <td>{{ book.new }}</td>
+          <td>
+            <rating ng-model="book.rating" max="6" readonly="isReadonly" state-on="'fa fa-star'" state-off="'fa fa-star-o'">
+            </rating>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

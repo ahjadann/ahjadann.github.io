@@ -1,0 +1,26 @@
+<div class="row">
+  <div class="col-md-12">
+    <p>
+      <a href="#/home"><i class="fa fa-chevron-left"></i> back home</a>
+    </p>
+    <h1>Books 2015</h1>
+    <table class="table table-striped" ng-controller="JourneyCtrl">
+      <thead>
+        <tr>
+          <th>country</th>
+          <th>place(s)</th>
+          <th>duration</th>
+          <th>packlist</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr ng-repeat="journey in journeys">
+          <td>{{ journey.country }}</td>
+          <td>{{ journey.place }}</td>
+          <td>{{ journey.duration }}</td>
+          <td>{{ journey.packlist }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
