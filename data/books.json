@@ -1,6 +1,6 @@
 [{
     "author": "Andy Weir",
-    "date": "xxx",
+    "date": "June",
     "format": "hard-cover",
     "genre": "fiction",
     "language": "German",
@@ -10,7 +10,7 @@
     "title": "Der Marsianer"
 }, {
     "author": "Fjodor Dostojewski",
-    "date": "xxx",
+    "date": "June",
     "format": "soft-cover",
     "genre": "non-fiction",
     "language": "German",
@@ -30,7 +30,7 @@
     "title": "Atlas eines ängstlichen Mannes"
 }, {
     "author": "Matthias Politycki",
-    "date": "August 13th",
+    "date": "xxx",
     "format": "soft-cover",
     "genre": "fiction",
     "language": "German",
