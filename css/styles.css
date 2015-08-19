@@ -1,5 +1,21 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
+.backbutton {
+    display: inline-block;
+    margin:0 auto;
+    overflow: hidden;
+    text-decoration: none;
+    border: 0;
+    border-radius: 4px;
+    padding: 6px;
+    text-align: center;
+}
+
+.backbutton:hover {
+    background-color: #39c;
+    color: #FFF;
+}
+
 body {
   padding: 50px;
   font: 15px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;

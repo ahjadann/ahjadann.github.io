@@ -21,7 +21,7 @@ ahjadannApp.config(["$routeProvider",
         }).
         when("/travels/2015", {
             templateUrl: "partials/travels_15.html",
-            controller: "BookCtrl"
+            controller: "JourneyCtrl"
         }).
         otherwise({
             redirectTo: "/home"
