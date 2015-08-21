@@ -4,9 +4,10 @@
       <a class="backbutton" href="#/home"><i class="fa fa-chevron-left"></i> back home</a>
     </p>
     <h1>Books 2015</h1>
-    <table class="table table-striped">
+    <table class="table-hover">
       <thead>
         <tr>
+          <th>#</th>
           <th>date</th>
           <th>title</th>
           <th>author</th>
@@ -14,12 +15,13 @@
           <!-- <th>format</th> -->
           <th>length</th>
           <th>genre</th>
-          <th>new/reread</th>
+          <!-- <th>new/reread</th> -->
           <th>rating</th>
         </tr>
       </thead>
       <tbody>
         <tr ng-repeat="book in books">
+          <td>{{ $index + 1 }}</td>
           <td>{{ book.date }}</td>
           <td>{{ book.title }}</td>
           <td>{{ book.author }}</td>
@@ -27,7 +29,7 @@
           <!-- <td>{{ book.format }}</td> -->
           <td>{{ book.length }}</td>
           <td>{{ book.genre }}</td>
-          <td>{{ book.new }}</td>
+          <!-- <td>{{ book.new }}</td> -->
           <td>
             <rating ng-model="book.rating" max="6" readonly="isReadonly" state-on="'fa fa-star'" state-off="'fa fa-star-o'">
             </rating>
