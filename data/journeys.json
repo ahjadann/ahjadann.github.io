@@ -8,4 +8,9 @@
     "place": "Tuscany",
     "duration": "7",
     "packlist": "bar"
+}, {
+    "country": "Italy",
+    "place": "Liguria",
+    "duration": "10",
+    "packlist": "asd"
 }]
