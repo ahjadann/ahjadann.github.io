@@ -1,5 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
+div.post {
+    border-top: #d0e2ea 1px dashed;
+    margin-bottom: 10px;
+}
+
 .backbutton {
   display: inline-block;
   margin: 0 auto;
@@ -47,6 +52,7 @@ h2 {
   text-transform: uppercase;
   font-size: 30px;
   color: #393939;
+  margin-top: 20px;
 }
 
 p, ul, ol, table, pre, dl {

@@ -23,3 +23,14 @@ ahjadannServices.factory("Journeys", ["$resource",
         });
     }
 ]);
+
+ahjadannServices.factory("Albums", ["$resource",
+    function($resource) {
+        return $resource("data/albums.json", {}, {
+            query: {
+                method: "GET",
+                isArray: true
+            }
+        });
+    }
+]);

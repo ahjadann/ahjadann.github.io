@@ -22,6 +22,10 @@ ahjadannApp.config(["$routeProvider",
             templateUrl: "partials/travels_15.html",
             controller: "JourneyCtrl"
         }).
+        when("/albums/2015", {
+            templateUrl: "partials/albums_15.html",
+            controller: "AlbumCtrl"
+        }).
         otherwise({
             redirectTo: "/home"
         });

@@ -31,3 +31,15 @@ ahjadannControllers.controller("JourneyCtrl", ["$scope", "Journeys",
         };
     }
 ]);
+
+ahjadannControllers.controller("AlbumCtrl", ["$scope", "Albums",
+    function($scope, Albums) {
+        $scope.albums = Albums.query();
+        $scope.isReadonly = true;
+
+        $scope.hoveringOver = function(value) {
+            $scope.overStar = value;
+            $scope.percent = 100 * (value / $scope.max);
+        };
+    }
+]);
