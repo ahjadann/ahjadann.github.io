@@ -45,7 +45,7 @@ h1 span {
 h2 {
   position: relative;
   text-transform: uppercase;
-  font-size: 32px;
+  font-size: 30px;
   color: #393939;
 }
 
@@ -187,7 +187,7 @@ header {
 section {
   width: 500px;
   float: right;
-  padding-bottom: 10px;
+  padding-bottom: 50px;
 }
 
 small {
@@ -230,6 +230,22 @@ section {
   border-width: 1px 0;
   padding: 20px 0;
   margin: 0 0 20px;
+}
+
+.post-meta {
+    color: rgb(158, 171, 179);
+    display: block;
+    /* font-family: 'Open Sans', sans-serif; */
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    height: 23px;
+    line-height: 23.1px;
+    margin-bottom: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 5px;
 }
 
 header a small {
