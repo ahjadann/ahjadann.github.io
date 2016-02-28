@@ -8,10 +8,11 @@ ahjadannControllers.controller("MainCtrl", ["$scope",
     }
 ]);
 
-ahjadannControllers.controller("BookCtrl", ["$scope", "Books",
-    function($scope, Books) {
+ahjadannControllers.controller("BookCtrl", ["$scope", "$routeParams", "Books",
+    function($scope, $routeParams, Books) {
         $scope.books = Books.query();
         $scope.isReadonly = true;
+        $scope.bookYear = $routeParams.bookYear;
 
         $scope.hoveringOver = function(value) {
             $scope.overStar = value;
@@ -20,10 +21,11 @@ ahjadannControllers.controller("BookCtrl", ["$scope", "Books",
     }
 ]);
 
-ahjadannControllers.controller("JourneyCtrl", ["$scope", "Journeys",
-    function($scope, Journeys) {
+ahjadannControllers.controller("JourneyCtrl", ["$scope", "$routeParams", "Journeys",
+    function($scope, $routeParams, Journeys) {
         $scope.journeys = Journeys.query();
         $scope.isReadonly = true;
+        $scope.journeyYear = $routeParams.journeyYear;
 
         $scope.hoveringOver = function(value) {
             $scope.overStar = value;
@@ -32,10 +34,11 @@ ahjadannControllers.controller("JourneyCtrl", ["$scope", "Journeys",
     }
 ]);
 
-ahjadannControllers.controller("AlbumCtrl", ["$scope", "Albums",
-    function($scope, Albums) {
+ahjadannControllers.controller("AlbumCtrl", ["$scope", "$routeParams", "Albums",
+    function($scope, $routeParams, Albums) {
         $scope.albums = Albums.query();
         $scope.isReadonly = true;
+        $scope.albumYear = $routeParams.albumYear;
 
         $scope.hoveringOver = function(value) {
             $scope.overStar = value;

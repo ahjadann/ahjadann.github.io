@@ -14,16 +14,16 @@ ahjadannApp.config(["$routeProvider",
             templateUrl: "partials/main.html",
             controller: "MainCtrl"
         }).
-        when("/books/2015", {
-            templateUrl: "partials/books_15.html",
+        when("/books/:bookYear", {
+            templateUrl: "partials/books.html",
             controller: "BookCtrl"
         }).
-        when("/travels/2015", {
-            templateUrl: "partials/travels_15.html",
+        when("/journeys/:journeyYear", {
+            templateUrl: "partials/journeys.html",
             controller: "JourneyCtrl"
         }).
-        when("/albums/2015", {
-            templateUrl: "partials/albums_15.html",
+        when("/albums/:albumYear", {
+            templateUrl: "partials/albums.html",
             controller: "AlbumCtrl"
         }).
         otherwise({

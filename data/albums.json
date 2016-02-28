@@ -3,17 +3,27 @@
     "title": "What Went Down",
     "artist": "Foals",
     "released": "8/2015",
+    "year": 2015,
     "rating": 5
 }, {
     "cover": "http://ecx.images-amazon.com/images/I/61Qs0sDP7qL._SL1000_.jpg",
     "title": "In Return",
     "artist": "Odesza",
     "released": "2014",
+    "year": 2015,
     "rating": 5
 }, {
     "cover": "http://themusicminutes.com/wp-content/uploads/2015/09/Cover_SteamingSatellites_2500x2500.jpg",
     "title": "Steaming Satellites",
     "artist": "Steaming Satellites",
     "released": "2015",
+    "year": 2015,
     "rating": 5
+}, {
+    "cover": "",
+    "title": "foo",
+    "artist": "bar",
+    "released": "---",
+    "year": 2016,
+    "rating": 0
 }]

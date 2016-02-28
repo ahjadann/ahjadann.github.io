@@ -16,7 +16,7 @@
         </tr>
       </thead>
       <tbody>
-        <tr ng-repeat="album in albums">
+        <tr ng-repeat="album in albums" ng-show="album.year == albumYear">
           <td>{{ $index + 1 }}</td>
           <td><img src="{{ album.cover }}" height="20"></td>
           <td>{{ album.title }}</td>

@@ -7,7 +7,8 @@
     "length": "512",
     "new": "new",
     "rating": 4,
-    "title": "Der Marsianer"
+    "title": "Der Marsianer",
+    "year": 2015
 }, {
     "author": "Fjodor Dostojewski",
     "date": "June",
@@ -17,7 +18,8 @@
     "length": "62",
     "new": "new",
     "rating": 6,
-    "title": "Der Großinquisitor"
+    "title": "Der Großinquisitor",
+    "year": 2015
 }, {
     "author": "Christoph Ransmayr",
     "date": "xxx",
@@ -27,7 +29,8 @@
     "length": "464",
     "new": "new",
     "rating": 5,
-    "title": "Atlas eines ängstlichen Mannes"
+    "title": "Atlas eines ängstlichen Mannes",
+    "year": 2015
 }, {
     "author": "Matthias Politycki",
     "date": "September",
@@ -37,7 +40,8 @@
     "length": "397",
     "new": "new",
     "rating": 4,
-    "title": "Samarkand Samarkand"
+    "title": "Samarkand Samarkand",
+    "year": 2015
 }, {
     "author": "T.C. Boyle",
     "date": "September",
@@ -47,5 +51,17 @@
     "length": "572",
     "new": "new",
     "rating": 5,
-    "title": "Wassermusik"
+    "title": "Wassermusik",
+    "year": 2015
+}, {
+  "author": "Haruki Murakami",
+  "date": "---",
+  "format": "soft-cover",
+  "genre": "fiction",
+  "language": "German",
+  "length": "---",
+  "new": "new",
+  "rating": 0,
+  "title": "19Q4",
+  "year": 2016
 }]

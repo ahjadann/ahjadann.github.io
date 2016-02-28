@@ -2,15 +2,28 @@
     "country": "Germany",
     "place": "Leipzig",
     "duration": "4",
-    "packlist": "foo"
+    "activity": "leisure",
+    "packlist": "foo",
+    "year": 2015
 }, {
     "country": "Italy",
     "place": "Tuscany",
     "duration": "7",
-    "packlist": "bar"
+    "activity": "leisure",
+    "packlist": "bar",
+    "year": 2015
 }, {
     "country": "Italy",
     "place": "Liguria",
     "duration": "10",
-    "packlist": "asd"
+    "activity": "leisure",
+    "packlist": "asd",
+    "year": 2015
+}, {
+  "country": "France",
+  "place": "Fontainebleau",
+  "duration": "4",
+  "activity": "Bouldering",
+  "packlist": "Camping stuff, bouldering equipment",
+  "year": 2016
 }]

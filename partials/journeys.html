@@ -3,22 +3,24 @@
     <p>
       <a class="backbutton" href="#/home"><i class="fa fa-chevron-left"></i> back home</a>
     </p>
-    <h1>Travels 2015</h1>
+    <h1>Journeys {{ journeyYear }}</h1>
     <table class="table-hover">
       <thead>
         <tr>
           <th>#</th>
           <th>country</th>
           <th>place(s)</th>
+          <th>activity</th>
           <th>duration</th>
           <th>packlist</th>
         </tr>
       </thead>
       <tbody>
-        <tr ng-repeat="journey in journeys">
+        <tr ng-repeat="journey in journeys" ng-show="journey.year == journeyYear">
           <td>{{ $index + 1 }}</td>
           <td>{{ journey.country }}</td>
           <td>{{ journey.place }}</td>
+          <td>{{ journey.activity }}</td>
           <td>{{ journey.duration }}</td>
           <td>{{ journey.packlist }}</td>
         </tr>
