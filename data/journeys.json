@@ -1,4 +1,5 @@
 [{
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
     "country": "Germany",
     "place": "Leipzig",
     "duration": "4",
@@ -6,6 +7,7 @@
     "packlist": "foo",
     "year": 2015
 }, {
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
     "country": "Italy",
     "place": "Tuscany",
     "duration": "7",
@@ -13,6 +15,7 @@
     "packlist": "bar",
     "year": 2015
 }, {
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
     "country": "Italy",
     "place": "Liguria",
     "duration": "10",
@@ -20,10 +23,35 @@
     "packlist": "asd",
     "year": 2015
 }, {
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
   "country": "France",
   "place": "Fontainebleau",
   "duration": "4",
   "activity": "Bouldering",
   "packlist": "Camping stuff, bouldering equipment",
+  "year": 2016
+}, {
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+  "country": "France",
+  "place": "Bouvesse-Quirieu",
+  "duration": "8",
+  "activity": "leisure",
+  "packlist": "Toys",
+  "year": 2016
+}, {
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Greenland.svg",
+  "country": "Greenland",
+  "place": "Western Greenland",
+  "duration": "15",
+  "activity": "Trekking",
+  "packlist": "Camping stuff",
+  "year": 2016
+}, {
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+  "country": "Argentina/Chile",
+  "place": "Buenos Aires/Tierra del Fuego",
+  "duration": "16",
+  "activity": "Trekking",
+  "packlist": "Camping stuff",
   "year": 2016
 }]

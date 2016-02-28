@@ -21,6 +21,23 @@ div.post {
   color: #FFF;
 }
 
+.yearbutton {
+  display: inline-block;
+  margin: 0 auto;
+  overflow: hidden;
+  text-decoration: none;
+  border: .5px solid lightgray;
+  border-radius: 4px;
+  padding: 3px;
+  text-align: center;
+}
+
+.yearbutton:hover {
+  background-color: #39c;
+  color: #FFF;
+  border: .5px solid #39c;
+}
+
 body {
   padding: 50px;
   font: 15px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
