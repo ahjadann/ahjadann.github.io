@@ -3,24 +3,24 @@
     "country": "Germany",
     "place": "Leipzig",
     "duration": "4",
-    "activity": "leisure",
-    "packlist": "foo",
+    "activity": "Leisure",
+    "packlist": "---",
     "year": 2015
 }, {
     "flag": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
     "country": "Italy",
     "place": "Tuscany",
     "duration": "7",
-    "activity": "leisure",
-    "packlist": "bar",
+    "activity": "Leisure",
+    "packlist": "---",
     "year": 2015
 }, {
     "flag": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
     "country": "Italy",
     "place": "Liguria",
     "duration": "10",
-    "activity": "leisure",
-    "packlist": "asd",
+    "activity": "Leisure",
+    "packlist": "---",
     "year": 2015
 }, {
   "flag": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
@@ -35,7 +35,7 @@
   "country": "France",
   "place": "Bouvesse-Quirieu",
   "duration": "8",
-  "activity": "leisure",
+  "activity": "Leisure",
   "packlist": "Toys",
   "year": 2016
 }, {
