@@ -20,10 +20,10 @@
     "year": 2015,
     "rating": 5
 }, {
-    "cover": "",
-    "title": "foo",
-    "artist": "bar",
-    "released": "---",
+    "cover": "http://static.spin.com/files/2015/11/ra-ra-art.jpg",
+    "title": "Need Your Light",
+    "artist": "Ra Ra Riot",
+    "released": "2016",
     "year": 2016,
-    "rating": 0
+    "rating": 4
 }]
