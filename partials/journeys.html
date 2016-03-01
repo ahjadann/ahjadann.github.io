@@ -16,7 +16,7 @@
         </tr>
       </thead>
       <tbody>
-        <tr ng-repeat="journey in journeys" ng-show="journey.year == journeyYear">
+        <tr ng-repeat="journey in journeys | filter:journeyYear">
           <td>{{ $index + 1 }}</td>
           <td><img ng-src="{{ journey.flag }}" height="12"> {{ journey.country }}</td>
           <td>{{ journey.place }}</td>
