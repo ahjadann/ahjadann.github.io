@@ -55,7 +55,7 @@
     "year": 2015
 }, {
   "author": "Haruki Murakami",
-  "date": "---",
+  "date": "March",
   "format": "soft-cover",
   "genre": "fiction",
   "language": "German",
@@ -63,5 +63,16 @@
   "new": "new",
   "rating": 0,
   "title": "1Q84 Books 1 & 2",
+  "year": 2016
+}, {
+  "author": "Haruki Murakami",
+  "date": "---",
+  "format": "soft-cover",
+  "genre": "fiction",
+  "language": "German",
+  "length": "571",
+  "new": "new",
+  "rating": 0,
+  "title": "1Q84 Book 3",
   "year": 2016
 }]
