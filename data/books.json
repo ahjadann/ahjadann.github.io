@@ -66,7 +66,7 @@
   "year": 2016
 }, {
   "author": "Haruki Murakami",
-  "date": "---",
+  "date": "August",
   "format": "soft-cover",
   "genre": "fiction",
   "language": "German",
@@ -85,5 +85,16 @@
   "new": "new",
   "rating": null,
   "title": "Othello",
+  "year": 2016
+}, {
+  "author": "Kim Leine",
+  "date": "---",
+  "format": "hard-cover",
+  "genre": "play",
+  "language": "German",
+  "length": "---",
+  "new": "new",
+  "rating": null,
+  "title": "Ewigkeitsfjord",
   "year": 2016
 }]

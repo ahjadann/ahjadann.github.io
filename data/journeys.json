@@ -54,4 +54,20 @@
   "activity": "Trekking",
   "packlist": "Camping stuff",
   "year": 2016
+}, {
+  "flag": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+  "country": "Czech Republic",
+  "place": "Prague/Maybe Bratislava, Slovakia",
+  "duration": "7",
+  "activity": "Leisure",
+  "packlist": "---",
+  "year": 2017
+}, {
+  "flag": "https://upload.wikimedia.org/wikipedia/de/3/30/Hardangervidda_Nationalpark_Logo.svg",
+  "country": "Norway",
+  "place": "Hardangervidda-Nasjonalpark",
+  "duration": "14",
+  "activity": "Snow trekking",
+  "packlist": "---",
+  "year": 2017
 }]
