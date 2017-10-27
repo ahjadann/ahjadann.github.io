@@ -1,0 +1,4 @@
+baseURL = "https://ahjadann.github.io/"
+languageCode = "en-gb"
+title = "ahjadann's fireplace"
+theme = "ananke"
