@@ -4,3 +4,6 @@
 [submodule "quickstart/themes/minimo"]
 	path = quickstart/themes/minimo
 	url = https://github.com/MunifTanjim/minimo.git
+[submodule "quickstart/themes/future-imperfect"]
+	path = quickstart/themes/future-imperfect
+	url = https://github.com/jpescador/hugo-future-imperfect
