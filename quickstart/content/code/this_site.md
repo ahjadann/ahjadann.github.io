@@ -9,7 +9,7 @@ featuredpath: ""
 featuredalt: ""
 categories: ["hugo", "coding"]
 linktitle: ""
-format: "projects"
+format: "code"
 link: "#"
 ---
 

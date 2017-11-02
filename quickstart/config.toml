@@ -58,7 +58,7 @@ customJS             = ["default"]
 [params.intro]
 header    = "bonfireplace"
 paragraph = "Let's see where this takes us <i class='fa fa-hand-peace-o'></i>"
-about     = "Don't know what's goin' on yet."
+about     = "This is my personal place in the interwebs and my playground."
 
 # This appears at the top of the sidebar above params.intro.header.
 # A width of less than 100px is recommended from a design perspective.
@@ -122,14 +122,14 @@ url = "/journeys/"
 identifier = "fa fa-compass"
 weight = 5
 
-[[menu.main]]
-name = "Stencils"
-url = "/stencils/"
-identifier = "fa fa-hand-scissors-o"
-weight = 6
+# [[menu.main]]
+# name = "Stencils"
+# url = "/stencils/"
+# identifier = "fa fa-hand-scissors-o"
+# weight = 6
 
 [[menu.main]]
-name = "Projects"
-url = "/projects/"
+name = "Code"
+url = "/code/"
 identifier = "fa fa-code"
 weight = 7

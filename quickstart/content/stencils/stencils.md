@@ -13,5 +13,4 @@ format: "cutting 'n spraying'"
 link: "#"
 ---
 
--   Norway
--   Austria
+Nothing to see here yet.
