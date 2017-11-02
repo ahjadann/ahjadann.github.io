@@ -1,3 +1,4 @@
 # ahjadann.github.io
 
-This is my playground for web programming and github stuff.
+[This is my playground](https://ahjadann.github.io) for web programming and
+github stuff.
