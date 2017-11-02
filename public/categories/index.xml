@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on ahjadann&#39;s fireplace</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on ahjadann&#39;s fireplace</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coding</title>
+      <link>/categories/coding/</link>
+      <pubDate>Fri, 27 Oct 2017 18:01:00 +0100</pubDate>
+      
+      <guid>/categories/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exhale</title>
+      <link>/categories/exhale/</link>
+      <pubDate>Wed, 01 Nov 2017 14:50:11 +0100</pubDate>
+      
+      <guid>/categories/exhale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>/categories/hugo/</link>
+      <pubDate>Fri, 27 Oct 2017 18:01:00 +0100</pubDate>
+      
+      <guid>/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journey</title>
+      <link>/categories/journey/</link>
+      <pubDate>Fri, 27 Oct 2017 18:01:00 +0100</pubDate>
+      
+      <guid>/categories/journey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Literature</title>
+      <link>/categories/literature/</link>
+      <pubDate>Fri, 27 Oct 2017 18:01:00 +0100</pubDate>
+      
+      <guid>/categories/literature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>/categories/music/</link>
+      <pubDate>Fri, 27 Oct 2017 18:01:00 +0100</pubDate>
+      
+      <guid>/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stencil</title>
+      <link>/categories/stencil/</link>
+      <pubDate>Thu, 02 Nov 2017 14:16:00 +0100</pubDate>
+      
+      <guid>/categories/stencil/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
