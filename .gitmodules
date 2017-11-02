@@ -7,3 +7,7 @@
 [submodule "quickstart/themes/future-imperfect"]
 	path = quickstart/themes/future-imperfect
 	url = https://github.com/jpescador/hugo-future-imperfect
+[submodule "public"]
+	path = public
+	url = git@github.com:ahjadann/ahjadann.github.io.git
+	branch = master
