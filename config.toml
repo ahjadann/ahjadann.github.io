@@ -1,7 +1,8 @@
 # https://github.com/jpescador/hugo-future-imperfect/tree/master/exampleSite
 # https://themes.gohugo.io/theme/future-imperfect/
 
-baseURL = "https://ahjadann.github.io/"
+# baseURL = "https://ahjadann.github.io/"
+baseUrl = "/"
 languageCode = "en-gb"
 title = "ahjadann's fireplace"
 theme = "future-imperfect"
