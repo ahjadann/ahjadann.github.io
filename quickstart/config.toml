@@ -105,21 +105,21 @@ identifier = "fa fa-newspaper-o"
 weight = 2
 
 [[menu.main]]
+name = "Albums"
+url = "/albums/"
+identifier = "fa fa-music"
+weight = 3
+
+[[menu.main]]
 name = "Books"
 url = "/books/"
 identifier = "fa fa-book"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "Journeys"
 url = "/journeys/"
 identifier = "fa fa-compass"
-weight = 4
-
-[[menu.main]]
-name = "Albums"
-url = "/albums/"
-identifier = "fa fa-music"
 weight = 5
 
 [[menu.main]]

@@ -9,11 +9,9 @@ featuredpath: ""
 featuredalt: ""
 categories: ["literature"]
 linktitle: ""
-format: "literature"
+format: "reading"
 link: "#"
 ---
-
-# Books 2017
 
 | Title               | Author              |
 |---------------------|---------------------|
