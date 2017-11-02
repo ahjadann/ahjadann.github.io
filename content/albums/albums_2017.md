@@ -1,7 +1,7 @@
 ---
 date: 2017-10-27T18:01:00+01:00
 title: Albums 2017
-description: "Albums I've enjoyed in 2017."
+description: "Albums I have enjoyed in 2017."
 author: "tobi"
 type: "itemized"
 featured: ""

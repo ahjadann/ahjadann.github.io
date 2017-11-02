@@ -9,7 +9,7 @@ featuredpath: ""
 featuredalt: ""
 categories: ["stencil"]
 linktitle: ""
-format: "cutting 'n spraying'"
+format: "cutting and spraying"
 link: "#"
 ---
 
