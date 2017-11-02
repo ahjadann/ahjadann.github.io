@@ -13,6 +13,4 @@ format: "code"
 link: "#"
 ---
 
-## Jos?!
-
 <i class="fa fa-github"></i> [Code here](https://github.com/ahjadann/ahjadann.github.io)
