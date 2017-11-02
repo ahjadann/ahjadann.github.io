@@ -1,16 +1,17 @@
+# https://github.com/jpescador/hugo-future-imperfect/tree/master/exampleSite
+# https://themes.gohugo.io/theme/future-imperfect/
+
 baseURL = "https://ahjadann.github.io/"
 languageCode = "en-gb"
 title = "ahjadann's fireplace"
 theme = "future-imperfect"
 paginate = 4
 preserveTaxonomyNames = true
+# disqusShortname = "shortname"
 googleAnalytics = ""
 pluralizeListTitles = false
 
-# for smart copyright line, leave this blank and check [params.copyright]
-copyright = ""
-
-enableRobotsTXT = true # generate robots.txt
+enableRobotsTXT = false # generate robots.txt
 
 # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
 pygmentsCodefences = true
@@ -20,7 +21,7 @@ defaultContentLanguage = "en"
 
 [params]
 # Sets the meta tag description
-description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+description          = "ay caramba"
 # Sets the navbarTitle that appears in the top left of the navigation bar
 navbarTitle          = "Neat fireplace"
 # Sets where "View More Posts" links
@@ -37,7 +38,7 @@ socialAppearAtBottom = true
 # Sets Categories to sort by number of posts instead of alphabetical
 categoriesByCount    = true
 # Sets Estimated Reading Time to appear in post headers
-includeReadingTime   = true
+includeReadingTime   = false
 # Sets the Favicon and Version for the site. Default support is for
 # apple-touch-icon-precomposed.png, favicon.png, favicon.ico, and mstile.png.
 # These are stored in the favicon folder. See the following for more information:
@@ -45,7 +46,7 @@ includeReadingTime   = true
 loadFavicon          = false
 faviconVersion       = ""
 # Sets Social Share links to appear on posts
-socialShare          = true
+socialShare          = false
 # Load custom CSS or JavaScript files. The variable is an array so that you
 # can load multiple files if necessary. You can also load the standard theme
 # files by adding the value, "default".
@@ -68,69 +69,20 @@ circle    = false
 # Sets Image to be Future Imperfect's hexagon
 imperfect = true
 width     = ""
-alt       = "Hugo Future Imperfect"
+alt       = "Neat Fireplace"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
 sidebar = 5
 
-[params.info]
-description = "Let's see where this takes us."
-title404 = "Nothing's here!"
-
-[params.assets]
-favicon = "favicon.ico"
-customCSS = ["css/custom.css"]
-customJS = ["js/custom.js"]
-gopher = "" # used in 404 template ( Generator: https://gopherize.me )
-
-[params.copyright]
-prefix = ""
-holder = "ahjadann"
-startYear = "2017"
-suffix = ""
-
-[params.settings]
-# date & time format: https://golang.org/pkg/time/
-dateFormat = "2006, Jan 02"
-listDateFormat = "2006, Jan 02"
-hideEntryNavigation = ["page"] # boolean / array of sections
-hideSocialMenu = false
-showReadingTime = true
-
-[params.opengraph.twitter]
-page = "" # Twitter page username
-
-[params.seo]
-# Title Separator: - – — · • * ⋆ | ~ « » < >
-titleSeparator = "•"
-
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
 # and socialAppearAtBottom.
 [social]
-# Coding Communities
 github = "ahjadann"
 twitter = "ahjadann"
+tumblr = "justoncemore"
 email = ""
-
-[taxonomies]
-author = "authors"
-category = "categories"
-tag = "tags"
-
-[permalinks]
-page = "/:slug/"
-
-[blackfriday]
-hrefTargetBlank = true
-
-[languages]
-# edit this block for your own language
-[languages.en]
-lang = "en"
-languageName = "English"
-weight = 1
 
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item
@@ -140,38 +92,44 @@ url = "/"
 identifier = "fa fa-home"
 weight = 1
 
-[[menu.main]]
-name = "About"
-url = "/about/"
-identifier = "fa fa-id-card-o"
-weight = 2
+# [[menu.main]]
+# name = "About"
+# url = "/about/"
+# identifier = "fa fa-id-card-o"
+# weight = 2
 
 [[menu.main]]
 name = "Blog"
 url = "/blog/"
 identifier = "fa fa-newspaper-o"
-weight = 3
+weight = 2
 
 [[menu.main]]
 name = "Books"
 url = "/books/"
 identifier = "fa fa-book"
-weight = 4
+weight = 3
 
 [[menu.main]]
 name = "Journeys"
 url = "/journeys/"
 identifier = "fa fa-compass"
-weight = 5
+weight = 4
 
 [[menu.main]]
 name = "Albums"
 url = "/albums/"
 identifier = "fa fa-music"
+weight = 5
+
+[[menu.main]]
+name = "Stencils"
+url = "/stencils/"
+identifier = "fa fa-hand-scissors-o"
 weight = 6
 
 [[menu.main]]
 name = "Projects"
 url = "/projects/"
-identifier = "fa fa-git"
-weight = 6
+identifier = "fa fa-code"
+weight = 7

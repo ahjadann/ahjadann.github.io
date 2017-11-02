@@ -7,7 +7,7 @@ type: "itemized"
 featured: ""
 featuredpath: ""
 featuredalt: ""
-categories: [""]
+categories: ["music"]
 linktitle: ""
 format: "music"
 link: "#"
