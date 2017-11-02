@@ -13,5 +13,7 @@ format: "travelling"
 link: "#"
 ---
 
--   Norway
--   Austria
+| Where               | Do What                  |
+|---------------------|--------------------------|
+| Norway              | Back country skiing      |
+| Austria             | Biking                   |
