@@ -1,5 +1,6 @@
 # https://github.com/jpescador/hugo-future-imperfect/tree/master/exampleSite
 # https://themes.gohugo.io/theme/future-imperfect/
+# https://gohugo.io/hosting-and-deployment/hosting-on-github/
 
 baseURL = "https://ahjadann.github.io/"
 languageCode = "en-gb"
@@ -56,7 +57,7 @@ customCSS            = ["default"]
 customJS             = ["default"]
 
 [params.intro]
-header    = "bonfireplace"
+header    = "neat fireplace"
 paragraph = "Let's see where this takes us <i class='fa fa-hand-peace-o'></i>"
 about     = "This is my personal place in the interwebs and my playground."
 
