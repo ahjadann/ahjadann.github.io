@@ -6,18 +6,27 @@
     <description>Recent content in Journey on ahjadann&#39;s fireplace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 27 Oct 2017 18:01:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 05 Nov 2017 14:21:00 +0100</lastBuildDate>
     
 	<atom:link href="https://ahjadann.github.io/categories/journey/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Journeys 2016</title>
+      <link>https://ahjadann.github.io/journeys/journeys_2016/</link>
+      <pubDate>Sun, 05 Nov 2017 14:21:00 +0100</pubDate>
+      
+      <guid>https://ahjadann.github.io/journeys/journeys_2016/</guid>
+      <description>   Where Duration Do What     Western Greenland 15 Trekking   Bouvesse-Quirieu, France 8 Leisure   Fontainebleau, France 5 Bouldering   Plansee, Austria 4 Hiking    </description>
+    </item>
+    
+    <item>
       <title>Journeys 2017</title>
-      <link>https://ahjadann.github.io/journeys/journeys/</link>
+      <link>https://ahjadann.github.io/journeys/journeys_2017/</link>
       <pubDate>Fri, 27 Oct 2017 18:01:00 +0100</pubDate>
       
-      <guid>https://ahjadann.github.io/journeys/journeys/</guid>
-      <description>   Where Do What     Norway Back country skiing   Austria Biking    </description>
+      <guid>https://ahjadann.github.io/journeys/journeys_2017/</guid>
+      <description>   Where Duration Do What     Hardangervidda-Nasjonalpark, Norway 14 Back country skiing   Vienna 5 Biking   Vienna, Bratislava, Prague 7 Leisure    </description>
     </item>
     
   </channel>
