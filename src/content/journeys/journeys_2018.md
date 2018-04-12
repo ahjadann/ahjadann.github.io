@@ -1,7 +1,7 @@
 ---
 date: 2018-04-12T21:11:00+01:00
 lastMod: 2018-04-12T21:11:00+01:00
-title: Journeys 2017
+title: Journeys 2018
 description: "Journeys I've been on in 2018."
 author: "tobi"
 type: "itemized"
