@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development aid on ahjadann&#39;s fireplace</title>
+    <link>https://ahjadann.github.io/categories/development-aid/</link>
+    <description>Recent content in Development aid on ahjadann&#39;s fireplace</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 20 Aug 2018 18:01:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://ahjadann.github.io/categories/development-aid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>stay! Webmap</title>
+      <link>https://ahjadann.github.io/code/stay_webmap/</link>
+      <pubDate>Mon, 20 Aug 2018 18:01:00 +0100</pubDate>
+      
+      <guid>https://ahjadann.github.io/code/stay_webmap/</guid>
+      <description>Mapping the projects organised by stay! foundation from Stuttgart, Germany.
+  Visit
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,21 @@
     <description>Recent content in Code on ahjadann&#39;s fireplace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 27 Oct 2017 18:01:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 20 Aug 2018 18:01:00 +0100</lastBuildDate>
     
 	<atom:link href="https://ahjadann.github.io/code/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>stay! Webmap</title>
+      <link>https://ahjadann.github.io/code/stay_webmap/</link>
+      <pubDate>Mon, 20 Aug 2018 18:01:00 +0100</pubDate>
+      
+      <guid>https://ahjadann.github.io/code/stay_webmap/</guid>
+      <description>Mapping the projects organised by stay! foundation from Stuttgart, Germany.
+  Visit
+  </description>
+    </item>
     
     <item>
       <title>This site</title>

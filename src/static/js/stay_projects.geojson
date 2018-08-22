@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "no": 1,
+        "name_organisation": "SOMERO Uganda",
+        "categories": "Education,Health",
+        "details": "empowers slum girls and young women to lead a self-determined life. Its main instruments of empowerment are education, skills development, and sound health. It equips girls who have ever been involved in commercial sex with skills in videography, computer skills and also educates them on reproductive health. ",
+        "projects_number": 4,
+        "projects_names": "IDI KCCA Project,Scream Project, Education and scholarship project, Bengo project",
+        "contact_homepage": "http://www.somero-uganda.org",
+        "contact_address": "Nsubuga Geoffrey, Block 203 Kazo Mukalazi road  P.O.Box 21162 Kampala, Uganda,+256-772 092318",
+        "icon": "information"
+      },
+      "geometry": {
+        "coordinates": [
+          32.558455,
+          0.374422
+        ],
+        "type": "Point"
+      },
+      "id": "17690c9fb29b96f494b5466e8b796535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "no": 3,
+        "name_organisation": "Eco agric Uganda",
+        "categories": "Income",
+        "details": "Creates improved livelihoods through trainings and capacity building, disease prevention, agricultural transformation and maintaining a healthy environment.",
+        "projects_number": 7,
+        "projects_names": "Murrmunning project, QSA project, OVC project, GAPP project, Trellies,  CRC project, VVF project",
+        "contact_homepage": "http://www.ecoagricuganda.org",
+        "contact_address": "Ntambazi Ben, Najjera Kira Town Council, Wakiso District, P.O Box 31833, 0772036155",
+        "icon": "information"
+      },
+      "geometry": {
+        "coordinates": [
+          32.640817,
+          0.412632
+        ],
+        "type": "Point"
+      },
+      "id": "941f21102dcc048ac472a7cd44ca3828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "no": 2,
+        "name_organisation": "Action Group for Health, Human Rights and HIV/AIDS",
+        "categories": "Health",
+        "details": "Mobilizes health professionals and health consumers to address issues of human rights as they relate to health, with a specific focus on HIV/AIDS. ",
+        "projects_number": "",
+        "projects_names": "",
+        "contact_homepage": "http://www.aghauganda.org",
+        "contact_address": "Odwe Dennis,  Plot 3, Suuna Road, Ntinda Stretcher, Stretcher Rd, Kampala, Uganda, 0702083227",
+        "icon": "information"
+      },
+      "geometry": {
+        "coordinates": [
+          32.618351,
+          0.342303
+        ],
+        "type": "Point"
+      },
+      "id": "eb0ec01fc43fc6b695558f956b05f5ea"
+    }
+  ],
+  "type": "FeatureCollection"
+}
