@@ -93,11 +93,11 @@ url = "/"
 identifier = "fa fa-home"
 weight = 1
 
-# [[menu.main]]
-# name = "About"
-# url = "/about/"
-# identifier = "fa fa-id-card-o"
-# weight = 2
+[[menu.main]]
+name = "About"
+url = "/about/"
+identifier = "fa fa-id-card-o"
+weight = 2
 
 # [[menu.main]]
 # name = "Blog"
@@ -117,11 +117,11 @@ weight = 2
 # identifier = "fa fa-book"
 # weight = 3
 
-[[menu.main]]
-name = "Journeys"
-url = "/journeys/"
-identifier = "fa fa-compass"
-weight = 4
+# [[menu.main]]
+# name = "Journeys"
+# url = "/journeys/"
+# identifier = "fa fa-compass"
+# weight = 4
 
 [[menu.main]]
 name = "Stencils"

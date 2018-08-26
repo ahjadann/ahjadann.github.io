@@ -13,7 +13,7 @@ format: "listening"
 link: "#"
 ---
 
-| Album Name                     | Artist                         |
+| Artist                         | Album Name                     |
 |--------------------------------|--------------------------------|
 | Durand Jones & The Indications | Durand Jones & The Indications |
 | Greta Van Fleeet               | From The Fires                 |
