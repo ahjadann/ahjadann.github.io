@@ -16,7 +16,6 @@ link: "#"
 
 | Title                  | Author(s)                |
 |------------------------|--------------------------|
-| Ship Of Theseus        | J. J. Abrams, Doug Dorst |
 | BINTI                  | Nnedi Okorafor           |
 | BINTI: HOME            | Nnedi Okorafor           |
 | Prisoners of Geography | Tim Marshall             |

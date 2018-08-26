@@ -29,7 +29,7 @@ navbarTitle          = "Neat fireplace"
 viewMorePostLink     = "/blog/"
 # Optional Params
 # Sets navbarTitle to match the section of the website
-dynamicTitles        = true
+dynamicTitles        = false
 # Sets RSS icons to appear on the sidebar with the social media buttons
 rssAppearAtTop       = true
 rssAppearAtBottom    = true
@@ -74,14 +74,14 @@ alt       = "Neat Fireplace"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
-sidebar = 5
+sidebar = 0
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
 # and socialAppearAtBottom.
 [social]
 github = "ahjadann"
-twitter = "ahjadann"
+# twitter = "ahjadann"
 tumblr = "justoncemore"
 email = ""
 
@@ -99,35 +99,35 @@ weight = 1
 # identifier = "fa fa-id-card-o"
 # weight = 2
 
-[[menu.main]]
-name = "Blog"
-url = "/blog/"
-identifier = "fa fa-newspaper-o"
-weight = 2
+# [[menu.main]]
+# name = "Blog"
+# url = "/blog/"
+# identifier = "fa fa-newspaper-o"
+# weight = 2
 
 [[menu.main]]
 name = "Albums"
 url = "/albums/"
 identifier = "fa fa-music"
-weight = 3
+weight = 2
 
-[[menu.main]]
-name = "Books"
-url = "/books/"
-identifier = "fa fa-book"
-weight = 4
+# [[menu.main]]
+# name = "Books"
+# url = "/books/"
+# identifier = "fa fa-book"
+# weight = 3
 
 [[menu.main]]
 name = "Journeys"
 url = "/journeys/"
 identifier = "fa fa-compass"
-weight = 5
+weight = 4
 
-# [[menu.main]]
-# name = "Stencils"
-# url = "/stencils/"
-# identifier = "fa fa-hand-scissors-o"
-# weight = 6
+[[menu.main]]
+name = "Stencils"
+url = "/stencils/"
+identifier = "fa fa-hand-scissors-o"
+weight = 6
 
 [[menu.main]]
 name = "Code"

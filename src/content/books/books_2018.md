@@ -15,4 +15,7 @@ link: "#"
 
 | Title                  | Author(s)                |
 |------------------------|--------------------------|
+| Ship Of Theseus        | J. J. Abrams, Doug Dorst |
 | Space Opera            | Catherynne M. Valente    |
+| Ancillary Justice      | Anne Leckie              |
+| Johnny Cash            | Reinhard Kleist          |

@@ -18,3 +18,6 @@ link: "#"
 | Durand Jones & The Indications | Durand Jones & The Indications |
 | Greta Van Fleeet               | From The Fires                 |
 | Vulfpeck                       | Mr Finish Line                 |
+| Courtney Barnett               | Tell Me How You Really Feel    |
+| Steaming Satellites            | Back From Space                |
+| Car Seat Headrest              | Twin Fantasy                   |
