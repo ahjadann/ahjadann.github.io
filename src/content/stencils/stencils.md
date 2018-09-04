@@ -13,4 +13,4 @@ format: "cutting 'n spraying'"
 link: "#"
 ---
 
-Nothing to see here yet.
+![Night flight](/img/2018/IMG_1485.jpg)
