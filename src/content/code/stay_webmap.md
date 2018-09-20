@@ -20,7 +20,7 @@ Mapping the projects organised by stay! foundation from Stuttgart, Germany.
 
 <div id="map" style="width: 100%; height: 500px;"></div>
 
-<i class="fa fa-link"></i> [Visit](https://www.stay-stiftung.org)
+<i class="fa fa-link"></i> [Visit stay foundation](https://www.stay-stiftung.org)
 
 <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.48.0/mapbox-gl.js"></script>
 <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.48.0/mapbox-gl.css" rel="stylesheet" />
