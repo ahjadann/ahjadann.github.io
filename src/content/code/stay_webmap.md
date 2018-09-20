@@ -22,7 +22,7 @@ Mapping the projects organised by stay! foundation from Stuttgart, Germany.
 
 <i class="fa fa-link"></i> [Visit stay foundation](https://www.stay-stiftung.org)
 
-<script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.48.0/mapbox-gl.js"></script>
-<link href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.48.0/mapbox-gl.css" rel="stylesheet" />
+<script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.js"></script>
+<link href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.css" rel="stylesheet" />
 <link href="/css/stay_styles.css" rel="stylesheet" />
 <script src="/js/stay_webmap.js"></script>
