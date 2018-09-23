@@ -16,4 +16,4 @@ Hey there, this is Tobi.
 
 Since this is indeed a nice, but blog related theme there apparently has to be this one blog post. I won't use this site for blogging, so please don't expect any posts. This is only for me showing off stuff I do or make and to play around.
 
-Regardless, feel free to check out my fireplace <i class='fa fa-fire'></i>!
+Regardless, feel free to check out my fireplace <i class='fa fa-fire'></i>
