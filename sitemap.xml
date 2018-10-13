@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>https://ahjadann.github.io/code/stay_webmap/</loc>
-    <lastmod>2018-08-21T18:21:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ahjadann.github.io/albums/albums_2018/</loc>
     <lastmod>2018-04-21T18:10:45+01:00</lastmod>
   </url>
@@ -69,12 +64,6 @@
   </url>
   
   <url>
-    <loc>https://ahjadann.github.io/tags/blink/</loc>
-    <lastmod>2018-09-20T17:50:11+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ahjadann.github.io/blog/</loc>
     <lastmod>2018-09-20T17:50:11+01:00</lastmod>
     <priority>0</priority>
@@ -93,19 +82,42 @@
   
   <url>
     <loc>https://ahjadann.github.io/code/</loc>
-    <lastmod>2018-08-21T18:21:00+01:00</lastmod>
+    <lastmod>2017-10-27T18:01:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahjadann.github.io/journeys/</loc>
+    <lastmod>2018-04-21T21:12:47+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahjadann.github.io/stencils/</loc>
+    <lastmod>2018-08-26T14:16:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahjadann.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahjadann.github.io/</loc>
+    <lastmod>2018-08-26T14:16:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ahjadann.github.io/tags/blink/</loc>
+    <lastmod>2018-09-20T17:50:11+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ahjadann.github.io/categories/coding/</loc>
-    <lastmod>2018-08-21T18:21:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahjadann.github.io/categories/development-aid/</loc>
-    <lastmod>2018-08-21T18:21:00+01:00</lastmod>
+    <lastmod>2017-10-27T18:01:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -128,12 +140,6 @@
   </url>
   
   <url>
-    <loc>https://ahjadann.github.io/journeys/</loc>
-    <lastmod>2018-04-21T21:12:47+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ahjadann.github.io/categories/literature/</loc>
     <lastmod>2018-08-20T18:01:00+01:00</lastmod>
     <priority>0</priority>
@@ -147,30 +153,6 @@
   
   <url>
     <loc>https://ahjadann.github.io/categories/stencil/</loc>
-    <lastmod>2018-08-26T14:16:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahjadann.github.io/stencils/</loc>
-    <lastmod>2018-08-26T14:16:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahjadann.github.io/tags/</loc>
-    <lastmod>2018-09-20T17:50:11+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahjadann.github.io/categories/web-mapping/</loc>
-    <lastmod>2018-08-21T18:21:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ahjadann.github.io/</loc>
     <lastmod>2018-08-26T14:16:00+01:00</lastmod>
     <priority>0</priority>
   </url>

@@ -12,6 +12,7 @@ categories: ["web mapping", "coding", "development aid"]
 linktitle: ""
 format: "code"
 link: "#"
+draft: true
 ---
 
 Mapping the projects organised by stay! foundation from Stuttgart, Germany.
