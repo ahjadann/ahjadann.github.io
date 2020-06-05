@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Neat Fireplace</title>
-    <link>https://ahjadann.github.io/</link>
-    <description>Recent content on Neat Fireplace</description>
+    <title>bike on Neat Fireplace</title>
+    <link>https://ahjadann.github.io/tags/bike/</link>
+    <description>Recent content in bike on Neat Fireplace</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Fri, 05 Jun 2020 14:45:45 +0200</lastBuildDate>
     
-	<atom:link href="https://ahjadann.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ahjadann.github.io/tags/bike/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://ahjadann.github.io/posts/2020/06/second-post/</guid>
       <description>#stayhome shopping spree.
 Blackstar JJN-20R MkII Cinelli Nemo Gravel </description>
-    </item>
-    
-    <item>
-      <title>Hey there</title>
-      <link>https://ahjadann.github.io/posts/2020/03/hey-there/</link>
-      <pubDate>Fri, 27 Mar 2020 13:10:22 +0100</pubDate>
-      
-      <guid>https://ahjadann.github.io/posts/2020/03/hey-there/</guid>
-      <description>Let&amp;rsquo;s just see where this takes us.</description>
     </item>
     
   </channel>
