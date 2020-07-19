@@ -21,7 +21,9 @@
 Step 1: $ hugo posts/&amp;lt;post_name&amp;gt;.md
 Step 2: Edit post and preview with $ hugo server -D
 Step 3: In blog post change draft to false
-Step 4: Run $ ./deploy.sh &amp;quot;Commit message&amp;quot;</description>
+Step 4: Run $ ./deploy.sh &amp;quot;Commit message&amp;quot;
+Step 5: Commit changes to public.
+ In case of submodule errors check https://gist.github.com/myusuf3/7f645819ded92bda6677</description>
     </item>
     
     <item>
