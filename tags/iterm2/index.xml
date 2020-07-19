@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Neat Fireplace</title>
-    <link>https://ahjadann.github.io/</link>
-    <description>Recent content on Neat Fireplace</description>
+    <title>iterm2 on Neat Fireplace</title>
+    <link>https://ahjadann.github.io/tags/iterm2/</link>
+    <description>Recent content in iterm2 on Neat Fireplace</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 19 Jul 2020 09:50:00 +0200</lastBuildDate>
     
-	<atom:link href="https://ahjadann.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ahjadann.github.io/tags/iterm2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,25 +22,6 @@ zsh prompt https://github.com/denysdovhan/spaceship-prompt
 oh-my-zsh plugins https://github.com/ohmyzsh/ohmyzsh#plugins
  brew git docker docker-compose history zsh-autosuggestions zsh-syntax-highlighting  Vim plugins  VundleVim/Vundle.vim (Plugin manager) vim-airline/vim-airline (status bar) vim-airline/vim-airline-themes (status bar themes) airblade/vim-gitgutter (git gutter) morhetz/gruvbox (theme)  Howtos Spaceship prompt, fonts, iterm2, oh-my-zsh:
  https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7 https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961 https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c  </description>
-    </item>
-    
-    <item>
-      <title>stayhome shopping spree</title>
-      <link>https://ahjadann.github.io/posts/2020/06/stayhome-shopping-spree/</link>
-      <pubDate>Fri, 05 Jun 2020 14:45:45 +0200</pubDate>
-      
-      <guid>https://ahjadann.github.io/posts/2020/06/stayhome-shopping-spree/</guid>
-      <description>#stayhome shopping spree.
-Blackstar JJN-20R MkII Cinelli Nemo Gravel </description>
-    </item>
-    
-    <item>
-      <title>Hey there</title>
-      <link>https://ahjadann.github.io/posts/2020/03/hey-there/</link>
-      <pubDate>Fri, 27 Mar 2020 13:10:22 +0100</pubDate>
-      
-      <guid>https://ahjadann.github.io/posts/2020/03/hey-there/</guid>
-      <description>Let&amp;rsquo;s just see where this takes us.</description>
     </item>
     
   </channel>

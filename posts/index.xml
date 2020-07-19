@@ -5,8 +5,52 @@
         <description>Recent content in Posts on Neat Fireplace</description>
         <generator>Hugo -- gohugo.io</generator>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Fri, 05 Jun 2020 14:45:45 +0200</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2020 09:50:00 +0200</lastBuildDate>
         <atom:link href="https://ahjadann.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Terminal overhaul</title>
+            <link>https://ahjadann.github.io/posts/2020/07/terminal-overhaul/</link>
+            <pubDate>Sun, 19 Jul 2020 09:50:00 +0200</pubDate>
+            
+            <guid>https://ahjadann.github.io/posts/2020/07/terminal-overhaul/</guid>
+            <description>My dot files https://github.com/ahjadann/dotfiles
+zsh prompt https://github.com/denysdovhan/spaceship-prompt
+oh-my-zsh plugins https://github.com/ohmyzsh/ohmyzsh#plugins
+ brew git docker docker-compose history zsh-autosuggestions zsh-syntax-highlighting  Vim plugins  VundleVim/Vundle.vim (Plugin manager) vim-airline/vim-airline (status bar) vim-airline/vim-airline-themes (status bar themes) airblade/vim-gitgutter (git gutter) morhetz/gruvbox (theme)  Howtos Spaceship prompt, fonts, iterm2, oh-my-zsh:
+ https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7 https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961 https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c  </description>
+            <content type="html"><![CDATA[<h2 id="my-dot-files">My dot files</h2>
+<p><a href="https://github.com/ahjadann/dotfiles">https://github.com/ahjadann/dotfiles</a></p>
+<h2 id="zsh-prompt">zsh prompt</h2>
+<p><a href="https://github.com/denysdovhan/spaceship-prompt">https://github.com/denysdovhan/spaceship-prompt</a></p>
+<h2 id="oh-my-zsh-plugins">oh-my-zsh plugins</h2>
+<p><a href="https://github.com/ohmyzsh/ohmyzsh#plugins">https://github.com/ohmyzsh/ohmyzsh#plugins</a></p>
+<ul>
+<li>brew</li>
+<li>git</li>
+<li>docker</li>
+<li>docker-compose</li>
+<li>history</li>
+<li>zsh-autosuggestions</li>
+<li>zsh-syntax-highlighting</li>
+</ul>
+<h2 id="vim-plugins">Vim plugins</h2>
+<ul>
+<li><a href="https://github.com/VundleVim/Vundle.vim">VundleVim/Vundle.vim</a> (Plugin manager)</li>
+<li><a href="https://github.com/vim-airline/vim-airline">vim-airline/vim-airline</a> (status bar)</li>
+<li><a href="https://github.com/vim-airline/vim-airline-themes">vim-airline/vim-airline-themes</a> (status bar themes)</li>
+<li><a href="https://github.com/airblade/vim-gitgutter">airblade/vim-gitgutter</a> (git gutter)</li>
+<li><a href="https://github.com/morhetz/gruvbox">morhetz/gruvbox</a> (theme)</li>
+</ul>
+<h2 id="howtos">Howtos</h2>
+<p>Spaceship prompt, fonts, iterm2, oh-my-zsh:</p>
+<ul>
+<li><a href="https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7">https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7</a></li>
+<li><a href="https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961">https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961</a></li>
+<li><a href="https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c">https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c</a></li>
+</ul>
+]]></content>
+        </item>
         
         <item>
             <title>stayhome shopping spree</title>
