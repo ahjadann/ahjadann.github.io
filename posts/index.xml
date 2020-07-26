@@ -41,7 +41,8 @@ Step 5: Commit changes to public.
             <description>My dot files https://github.com/ahjadann/dotfiles
 zsh prompt https://github.com/denysdovhan/spaceship-prompt
 oh-my-zsh plugins https://github.com/ohmyzsh/ohmyzsh#plugins
- brew git docker docker-compose history zsh-autosuggestions zsh-syntax-highlighting  Vim plugins  VundleVim/Vundle.vim (Plugin manager) vim-airline/vim-airline (status bar) vim-airline/vim-airline-themes (status bar themes) airblade/vim-gitgutter (git gutter) morhetz/gruvbox (theme)  Howtos Spaceship prompt, fonts, iterm2, oh-my-zsh:
+ brew git docker docker-compose history zsh-autosuggestions zsh-syntax-highlighting  Vim plugins  VundleVim/Vundle.vim (Plugin manager) vim-airline/vim-airline (status bar) vim-airline/vim-airline-themes (status bar themes) airblade/vim-gitgutter (git gutter) morhetz/gruvbox (theme)  iTerm2 color scheme https://github.com/MartinSeeler/iterm2-material-design
+Howtos Spaceship prompt, fonts, iterm2, oh-my-zsh:
  https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7 https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961 https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c  </description>
             <content type="html"><![CDATA[<h2 id="my-dot-files">My dot files</h2>
 <p><a href="https://github.com/ahjadann/dotfiles">https://github.com/ahjadann/dotfiles</a></p>
@@ -66,6 +67,8 @@ oh-my-zsh plugins https://github.com/ohmyzsh/ohmyzsh#plugins
 <li><a href="https://github.com/airblade/vim-gitgutter">airblade/vim-gitgutter</a> (git gutter)</li>
 <li><a href="https://github.com/morhetz/gruvbox">morhetz/gruvbox</a> (theme)</li>
 </ul>
+<h2 id="iterm2-color-scheme">iTerm2 color scheme</h2>
+<p><a href="https://github.com/MartinSeeler/iterm2-material-design">https://github.com/MartinSeeler/iterm2-material-design</a></p>
 <h2 id="howtos">Howtos</h2>
 <p>Spaceship prompt, fonts, iterm2, oh-my-zsh:</p>
 <ul>
