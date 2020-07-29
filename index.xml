@@ -35,7 +35,7 @@ Step 5: Commit changes to public.
       <description>My dot files https://github.com/ahjadann/dotfiles
 zsh prompt https://github.com/denysdovhan/spaceship-prompt
 oh-my-zsh plugins https://github.com/ohmyzsh/ohmyzsh#plugins
- brew git docker docker-compose history zsh-autosuggestions zsh-syntax-highlighting  Vim plugins  VundleVim/Vundle.vim (Plugin manager) vim-airline/vim-airline (status bar) vim-airline/vim-airline-themes (status bar themes) airblade/vim-gitgutter (git gutter) morhetz/gruvbox (theme)  iTerm2 color scheme https://github.com/MartinSeeler/iterm2-material-design
+ brew git docker docker-compose history zsh-autosuggestions zsh-syntax-highlighting  Vim plugins  VundleVim/Vundle.vim (Plugin manager) vim-airline/vim-airline (status bar) vim-airline/vim-airline-themes (status bar themes) airblade/vim-gitgutter (git gutter) morhetz/gruvbox (theme) ycm-core/YouCompleteMe (auto completer)  iTerm2 color scheme https://github.com/MartinSeeler/iterm2-material-design
 Howtos Spaceship prompt, fonts, iterm2, oh-my-zsh:
  https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7 https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961 https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c  </description>
     </item>
