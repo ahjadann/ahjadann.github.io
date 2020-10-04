@@ -5,8 +5,24 @@
         <description>Recent content in Posts on Neat Fireplace</description>
         <generator>Hugo -- gohugo.io</generator>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sun, 19 Jul 2020 11:02:40 +0200</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2020 15:49:35 +0200</lastBuildDate>
         <atom:link href="https://ahjadann.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Fifth Post</title>
+            <link>https://ahjadann.github.io/posts/2020/10/fifth-post/</link>
+            <pubDate>Sun, 04 Oct 2020 15:49:35 +0200</pubDate>
+            
+            <guid>https://ahjadann.github.io/posts/2020/10/fifth-post/</guid>
+            <description>Step 1: $ cd &amp;lt;project&amp;gt;/themes/hello-friend-ng Step 2: $ git fetch Step 3: $ git pull Step 4: $ cd &amp;lt;project&amp;gt; Step 5: $ git commit -m &amp;quot;Update Theme&amp;quot; Step 6: $ git push</description>
+            <content type="html"><![CDATA[<p><strong>Step 1</strong>: <code>$ cd &lt;project&gt;/themes/hello-friend-ng</code>
+<strong>Step 2</strong>: <code>$ git fetch</code>
+<strong>Step 3</strong>: <code>$ git pull</code>
+<strong>Step 4</strong>: <code>$ cd &lt;project&gt;</code>
+<strong>Step 5</strong>: <code>$ git commit -m &quot;Update Theme&quot;</code>
+<strong>Step 6</strong>: <code>$ git push</code></p>
+]]></content>
+        </item>
         
         <item>
             <title>Hugo blog post workflow</title>
@@ -15,14 +31,14 @@
             
             <guid>https://ahjadann.github.io/posts/2020/07/hugo-blog-post-workflow/</guid>
             <description>This is the project setup
-Step 1: $ hugo posts/&amp;lt;post_name&amp;gt;.md
+Step 1: $ hugo new posts/&amp;lt;post_name&amp;gt;.md
 Step 2: Edit post and preview with $ hugo server -D
 Step 3: In blog post change draft to false
 Step 4: Run $ ./deploy.sh &amp;quot;Commit message&amp;quot;
 Step 5: Commit changes to public.
  In case of submodule errors check https://gist.github.com/myusuf3/7f645819ded92bda6677</description>
             <content type="html"><![CDATA[<p><a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/">This is the project setup</a></p>
-<p><strong>Step 1</strong>: <code>$ hugo posts/&lt;post_name&gt;.md</code></p>
+<p><strong>Step 1</strong>: <code>$ hugo new posts/&lt;post_name&gt;.md</code></p>
 <p><strong>Step 2</strong>: Edit post and preview with <code>$ hugo server -D</code></p>
 <p><strong>Step 3</strong>: In blog post change <code>draft</code> to <code>false</code></p>
 <p><strong>Step 4</strong>: Run <code>$ ./deploy.sh &quot;Commit message&quot;</code></p>
