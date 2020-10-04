@@ -14,13 +14,18 @@
             <pubDate>Sun, 04 Oct 2020 15:49:35 +0200</pubDate>
             
             <guid>https://ahjadann.github.io/posts/2020/10/fifth-post/</guid>
-            <description>Step 1: $ cd &amp;lt;project&amp;gt;/themes/hello-friend-ng Step 2: $ git fetch Step 3: $ git pull Step 4: $ cd &amp;lt;project&amp;gt; Step 5: $ git commit -m &amp;quot;Update Theme&amp;quot; Step 6: $ git push</description>
-            <content type="html"><![CDATA[<p><strong>Step 1</strong>: <code>$ cd &lt;project&gt;/themes/hello-friend-ng</code>
-<strong>Step 2</strong>: <code>$ git fetch</code>
-<strong>Step 3</strong>: <code>$ git pull</code>
-<strong>Step 4</strong>: <code>$ cd &lt;project&gt;</code>
-<strong>Step 5</strong>: <code>$ git commit -m &quot;Update Theme&quot;</code>
-<strong>Step 6</strong>: <code>$ git push</code></p>
+            <description>Step 1: $ cd &amp;lt;project&amp;gt;/themes/hello-friend-ng
+Step 2: $ git fetch
+Step 3: $ git pull
+Step 4: $ cd &amp;lt;project&amp;gt;
+Step 5: $ git commit -m &amp;quot;Update Theme&amp;quot;
+Step 6: $ git push</description>
+            <content type="html"><![CDATA[<p><strong>Step 1</strong>: <code>$ cd &lt;project&gt;/themes/hello-friend-ng</code></p>
+<p><strong>Step 2</strong>: <code>$ git fetch</code></p>
+<p><strong>Step 3</strong>: <code>$ git pull</code></p>
+<p><strong>Step 4</strong>: <code>$ cd &lt;project&gt;</code></p>
+<p><strong>Step 5</strong>: <code>$ git commit -m &quot;Update Theme&quot;</code></p>
+<p><strong>Step 6</strong>: <code>$ git push</code></p>
 ]]></content>
         </item>
         

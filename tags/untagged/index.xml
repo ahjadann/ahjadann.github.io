@@ -13,7 +13,12 @@
       <pubDate>Sun, 04 Oct 2020 15:49:35 +0200</pubDate>
       
       <guid>https://ahjadann.github.io/posts/2020/10/fifth-post/</guid>
-      <description>Step 1: $ cd &amp;lt;project&amp;gt;/themes/hello-friend-ng Step 2: $ git fetch Step 3: $ git pull Step 4: $ cd &amp;lt;project&amp;gt; Step 5: $ git commit -m &amp;quot;Update Theme&amp;quot; Step 6: $ git push</description>
+      <description>Step 1: $ cd &amp;lt;project&amp;gt;/themes/hello-friend-ng
+Step 2: $ git fetch
+Step 3: $ git pull
+Step 4: $ cd &amp;lt;project&amp;gt;
+Step 5: $ git commit -m &amp;quot;Update Theme&amp;quot;
+Step 6: $ git push</description>
     </item>
     
   </channel>
