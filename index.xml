@@ -8,11 +8,11 @@
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 04 Oct 2020 15:49:35 +0200</lastBuildDate><atom:link href="https://ahjadann.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fifth Post</title>
-      <link>https://ahjadann.github.io/posts/2020/10/fifth-post/</link>
+      <title>Hugo theme update workflow</title>
+      <link>https://ahjadann.github.io/posts/2020/10/hugo-theme-update-workflow/</link>
       <pubDate>Sun, 04 Oct 2020 15:49:35 +0200</pubDate>
       
-      <guid>https://ahjadann.github.io/posts/2020/10/fifth-post/</guid>
+      <guid>https://ahjadann.github.io/posts/2020/10/hugo-theme-update-workflow/</guid>
       <description>Step 1: $ cd &amp;lt;project&amp;gt;/themes/hello-friend-ng
 Step 2: $ git fetch
 Step 3: $ git pull
