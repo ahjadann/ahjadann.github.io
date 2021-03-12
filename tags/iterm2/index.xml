@@ -5,8 +5,19 @@
     <link>https://ahjadann.github.io/tags/iterm2/</link>
     <description>Recent content in iterm2 on Neat Fireplace</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 19 Jul 2020 09:50:00 +0200</lastBuildDate><atom:link href="https://ahjadann.github.io/tags/iterm2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Mar 2021 07:28:57 +0100</lastBuildDate><atom:link href="https://ahjadann.github.io/tags/iterm2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>More shell themes</title>
+      <link>https://ahjadann.github.io/posts/2021/03/more-shell-themes/</link>
+      <pubDate>Fri, 12 Mar 2021 07:28:57 +0100</pubDate>
+      
+      <guid>https://ahjadann.github.io/posts/2021/03/more-shell-themes/</guid>
+      <description>There&amp;rsquo;s a number of cool shell themes I found via.
+ powerlevel10k (Lean Style) starship Nord Pure  </description>
+    </item>
+    
     <item>
       <title>Terminal overhaul</title>
       <link>https://ahjadann.github.io/posts/2020/07/terminal-overhaul/</link>

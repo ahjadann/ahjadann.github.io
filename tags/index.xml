@@ -5,14 +5,60 @@
     <link>https://ahjadann.github.io/tags/</link>
     <description>Recent content in Tags on Neat Fireplace</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 04 Oct 2020 15:49:35 +0200</lastBuildDate><atom:link href="https://ahjadann.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Mar 2021 07:28:57 +0100</lastBuildDate><atom:link href="https://ahjadann.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>untagged</title>
-      <link>https://ahjadann.github.io/tags/untagged/</link>
+      <title>iterm2</title>
+      <link>https://ahjadann.github.io/tags/iterm2/</link>
+      <pubDate>Fri, 12 Mar 2021 07:28:57 +0100</pubDate>
+      
+      <guid>https://ahjadann.github.io/tags/iterm2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shell prompt</title>
+      <link>https://ahjadann.github.io/tags/shell-prompt/</link>
+      <pubDate>Fri, 12 Mar 2021 07:28:57 +0100</pubDate>
+      
+      <guid>https://ahjadann.github.io/tags/shell-prompt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zsh</title>
+      <link>https://ahjadann.github.io/tags/zsh/</link>
+      <pubDate>Fri, 12 Mar 2021 07:28:57 +0100</pubDate>
+      
+      <guid>https://ahjadann.github.io/tags/zsh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://ahjadann.github.io/tags/hugo/</link>
       <pubDate>Sun, 04 Oct 2020 15:49:35 +0200</pubDate>
       
-      <guid>https://ahjadann.github.io/tags/untagged/</guid>
+      <guid>https://ahjadann.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theme</title>
+      <link>https://ahjadann.github.io/tags/theme/</link>
+      <pubDate>Sun, 04 Oct 2020 15:49:35 +0200</pubDate>
+      
+      <guid>https://ahjadann.github.io/tags/theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workflow</title>
+      <link>https://ahjadann.github.io/tags/workflow/</link>
+      <pubDate>Sun, 04 Oct 2020 15:49:35 +0200</pubDate>
+      
+      <guid>https://ahjadann.github.io/tags/workflow/</guid>
       <description></description>
     </item>
     
@@ -22,51 +68,6 @@
       <pubDate>Sun, 19 Jul 2020 11:02:40 +0200</pubDate>
       
       <guid>https://ahjadann.github.io/tags/blog-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://ahjadann.github.io/tags/hugo/</link>
-      <pubDate>Sun, 19 Jul 2020 11:02:40 +0200</pubDate>
-      
-      <guid>https://ahjadann.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>workflow</title>
-      <link>https://ahjadann.github.io/tags/workflow/</link>
-      <pubDate>Sun, 19 Jul 2020 11:02:40 +0200</pubDate>
-      
-      <guid>https://ahjadann.github.io/tags/workflow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iterm2</title>
-      <link>https://ahjadann.github.io/tags/iterm2/</link>
-      <pubDate>Sun, 19 Jul 2020 09:50:00 +0200</pubDate>
-      
-      <guid>https://ahjadann.github.io/tags/iterm2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shell prompt</title>
-      <link>https://ahjadann.github.io/tags/shell-prompt/</link>
-      <pubDate>Sun, 19 Jul 2020 09:50:00 +0200</pubDate>
-      
-      <guid>https://ahjadann.github.io/tags/shell-prompt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>zsh</title>
-      <link>https://ahjadann.github.io/tags/zsh/</link>
-      <pubDate>Sun, 19 Jul 2020 09:50:00 +0200</pubDate>
-      
-      <guid>https://ahjadann.github.io/tags/zsh/</guid>
       <description></description>
     </item>
     
