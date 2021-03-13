@@ -6,33 +6,51 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-gb</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Fri, 12 Mar 2021 19:28:20 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 13 Mar 2021 15:15:54 +0100</lastBuildDate>
         <atom:link href="https://ahjadann.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>Creative phase</title>
-            <link>https://ahjadann.github.io/posts/2021/03/creative-phase/</link>
-            <pubDate>Fri, 12 Mar 2021 19:28:20 +0100</pubDate>
+            <title>Creative phase II - Minimal</title>
+            <link>https://ahjadann.github.io/posts/2021/03/creative-phase-ii-minimal/</link>
+            <pubDate>Sat, 13 Mar 2021 15:15:54 +0100</pubDate>
             
-            <guid>https://ahjadann.github.io/posts/2021/03/creative-phase/</guid>
-            <description>There have been some creative vibes in November 2020. Fiddling around with Affinity Designer and the Apple Pencil.
+            <guid>https://ahjadann.github.io/posts/2021/03/creative-phase-ii-minimal/</guid>
+            <description>There have been some creative vibes in November 2020 which led to fiddling around with Affinity Designer and the Apple Pencil. Post 2/2.
+Toying around with Affinity Designer led to various other results.
 Ensō The hand-drawn Zen circle Ensō symbolizing absolute enlightenment.
-Cinelli Logo Crafted Logo.
-Cinelli Nemo Tig Gravel The Nemo Tig Gravel manufactured by Cinelli.
 Mountains Triangle mountains.</description>
-            <content type="html"><![CDATA[<p>There have been some creative vibes in November 2020. Fiddling around with <a href="https://affinity.serif.com/">Affinity Designer</a> and the Apple Pencil.</p>
+            <content type="html"><![CDATA[<p><em>There have been some creative vibes in November 2020 which led to fiddling around with
+<a href="https://affinity.serif.com/">Affinity Designer</a> and the Apple Pencil.</em> Post 2/2.</p>
+<p><a href="https://ahjadann.github.io/posts/2021/03/creative-phase-i-cinelli/" title="Toying">Toying around with Affinity Designer</a> led to various other results.</p>
 <h2 id="ensō">Ensō</h2>
 <p>The hand-drawn Zen circle <a href="https://en.wikipedia.org/wiki/Ens%C5%8D">Ensō</a> symbolizing absolute enlightenment.</p>
 <p><img src="/img/cerchio.png" alt="Picture of Enso" title="Cerchio"></p>
+<h2 id="mountains">Mountains</h2>
+<p>Triangle mountains.</p>
+<p><img src="/img/triangoli.png" alt="Picture of mountains as triangles" title="Triangoli"></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Creative phase I - Cinelli</title>
+            <link>https://ahjadann.github.io/posts/2021/03/creative-phase-i-cinelli/</link>
+            <pubDate>Fri, 12 Mar 2021 19:28:20 +0100</pubDate>
+            
+            <guid>https://ahjadann.github.io/posts/2021/03/creative-phase-i-cinelli/</guid>
+            <description>There have been some creative vibes in November 2020 which led to fiddling around with Affinity Designer and the Apple Pencil. Post 1/2.
+As mentioned here, after a lifelong wait from April to November &amp;lsquo;20, there&amp;rsquo;s a new bike in town. I&amp;rsquo;m so in love that I started toying around with the iPad, Pencil &amp;amp; Affinity Designer which led to the images below.
+Cinelli Logo Hand crafted Logo as a puzzle piece for Nemo&amp;rsquo;s down tube.</description>
+            <content type="html"><![CDATA[<p><em>There have been some creative vibes in November 2020 which led to fiddling around with
+<a href="https://affinity.serif.com/">Affinity Designer</a> and the Apple Pencil.</em> Post 1/2.</p>
+<p><a href="https://ahjadann.github.io/posts/2020/06/stayhome-shopping-spree/" title="Mentioned">As mentioned here</a>, after a lifelong wait from April to November &lsquo;20,
+there&rsquo;s a new bike in town. I&rsquo;m so in love that I started toying around with the iPad, Pencil &amp; Affinity Designer which
+led to the images below.</p>
 <h2 id="cinelli-logo">Cinelli Logo</h2>
-<p>Crafted Logo.</p>
+<p>Hand crafted Logo as a puzzle piece for <a href="#cinelli-nemo-tig-gravel">Nemo&rsquo;s down tube</a>.</p>
 <p><img src="/img/cinelli_logo_2020.png" alt="Picture of Cinelli Logo" title="Cinelli Logo"></p>
 <h2 id="cinelli-nemo-tig-gravel">Cinelli Nemo Tig Gravel</h2>
 <p>The Nemo Tig Gravel manufactured by <a href="https://cinelli.it/it/prodotti/nemo-tig-gravel/">Cinelli</a>.</p>
 <p><img src="/img/nemo_gravel_bici.png" alt="Picture of Cinelli Nemo Tig Gravel" title="Cinelli Nemo Tig Gravel"></p>
-<h2 id="mountains">Mountains</h2>
-<p>Triangle mountains.</p>
-<p><img src="/img/triangoli.png" alt="Picture of mountains as triangles" title="Triangoli"></p>
 ]]></content>
         </item>
         

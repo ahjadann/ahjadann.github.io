@@ -2,29 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ahjadann.github.io/tags/bicycle/</loc>
-    <lastmod>2021-03-12T19:28:20+01:00</lastmod>
+    <loc>https://ahjadann.github.io/categories/artsy/</loc>
+    <lastmod>2021-03-13T15:15:54+01:00</lastmod>
   </url><url>
-    <loc>https://ahjadann.github.io/tags/cinelli/</loc>
-    <lastmod>2021-03-12T19:28:20+01:00</lastmod>
+    <loc>https://ahjadann.github.io/categories/</loc>
+    <lastmod>2021-03-13T15:15:54+01:00</lastmod>
   </url><url>
-    <loc>https://ahjadann.github.io/posts/2021/03/creative-phase/</loc>
-    <lastmod>2021-03-12T19:28:20+01:00</lastmod>
+    <loc>https://ahjadann.github.io/posts/2021/03/creative-phase-ii-minimal/</loc>
+    <lastmod>2021-03-13T15:15:54+01:00</lastmod>
   </url><url>
     <loc>https://ahjadann.github.io/tags/creativity/</loc>
-    <lastmod>2021-03-12T19:28:20+01:00</lastmod>
+    <lastmod>2021-03-13T15:15:54+01:00</lastmod>
+  </url><url>
+    <loc>https://ahjadann.github.io/tags/minimalistic/</loc>
+    <lastmod>2021-03-13T15:15:54+01:00</lastmod>
   </url><url>
     <loc>https://ahjadann.github.io/</loc>
-    <lastmod>2021-03-12T19:28:20+01:00</lastmod>
+    <lastmod>2021-03-13T15:15:54+01:00</lastmod>
   </url><url>
     <loc>https://ahjadann.github.io/posts/</loc>
-    <lastmod>2021-03-12T19:28:20+01:00</lastmod>
+    <lastmod>2021-03-13T15:15:54+01:00</lastmod>
+  </url><url>
+    <loc>https://ahjadann.github.io/series/</loc>
+    <lastmod>2021-03-13T15:15:54+01:00</lastmod>
   </url><url>
     <loc>https://ahjadann.github.io/tags/</loc>
-    <lastmod>2021-03-12T19:28:20+01:00</lastmod>
+    <lastmod>2021-03-13T15:15:54+01:00</lastmod>
+  </url><url>
+    <loc>https://ahjadann.github.io/series/winter-illustrations/</loc>
+    <lastmod>2021-03-13T15:15:54+01:00</lastmod>
   </url><url>
     <loc>https://ahjadann.github.io/tags/zen/</loc>
-    <lastmod>2021-03-12T19:28:20+01:00</lastmod>
+    <lastmod>2021-03-13T15:15:54+01:00</lastmod>
+  </url><url>
+    <loc>https://ahjadann.github.io/tags/bicycle/</loc>
+    <lastmod>2021-03-13T15:15:00+01:00</lastmod>
+  </url><url>
+    <loc>https://ahjadann.github.io/tags/cinelli/</loc>
+    <lastmod>2021-03-13T15:15:00+01:00</lastmod>
+  </url><url>
+    <loc>https://ahjadann.github.io/posts/2021/03/creative-phase-i-cinelli/</loc>
+    <lastmod>2021-03-13T15:15:00+01:00</lastmod>
   </url><url>
     <loc>https://ahjadann.github.io/tags/iterm2/</loc>
     <lastmod>2021-03-12T07:28:57+01:00</lastmod>
@@ -76,9 +94,5 @@
   </url><url>
     <loc>https://ahjadann.github.io/posts/2020/03/hey-there/</loc>
     <lastmod>2020-03-27T13:10:22+01:00</lastmod>
-  </url><url>
-    <loc>https://ahjadann.github.io/categories/</loc>
-  </url><url>
-    <loc>https://ahjadann.github.io/series/</loc>
   </url>
 </urlset>
