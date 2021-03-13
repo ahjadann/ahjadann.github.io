@@ -2,22 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ahjadann.github.io/tags/bicycle/</loc>
+    <lastmod>2021-03-12T19:28:20+01:00</lastmod>
+  </url><url>
+    <loc>https://ahjadann.github.io/tags/cinelli/</loc>
+    <lastmod>2021-03-12T19:28:20+01:00</lastmod>
+  </url><url>
+    <loc>https://ahjadann.github.io/posts/2021/03/creative-phase/</loc>
+    <lastmod>2021-03-12T19:28:20+01:00</lastmod>
+  </url><url>
+    <loc>https://ahjadann.github.io/tags/creativity/</loc>
+    <lastmod>2021-03-12T19:28:20+01:00</lastmod>
+  </url><url>
+    <loc>https://ahjadann.github.io/</loc>
+    <lastmod>2021-03-12T19:28:20+01:00</lastmod>
+  </url><url>
+    <loc>https://ahjadann.github.io/posts/</loc>
+    <lastmod>2021-03-12T19:28:20+01:00</lastmod>
+  </url><url>
+    <loc>https://ahjadann.github.io/tags/</loc>
+    <lastmod>2021-03-12T19:28:20+01:00</lastmod>
+  </url><url>
+    <loc>https://ahjadann.github.io/tags/zen/</loc>
+    <lastmod>2021-03-12T19:28:20+01:00</lastmod>
+  </url><url>
     <loc>https://ahjadann.github.io/tags/iterm2/</loc>
     <lastmod>2021-03-12T07:28:57+01:00</lastmod>
   </url><url>
     <loc>https://ahjadann.github.io/posts/2021/03/more-shell-themes/</loc>
     <lastmod>2021-03-12T07:28:57+01:00</lastmod>
   </url><url>
-    <loc>https://ahjadann.github.io/</loc>
-    <lastmod>2021-03-12T07:28:57+01:00</lastmod>
-  </url><url>
-    <loc>https://ahjadann.github.io/posts/</loc>
-    <lastmod>2021-03-12T07:28:57+01:00</lastmod>
-  </url><url>
     <loc>https://ahjadann.github.io/tags/shell-prompt/</loc>
-    <lastmod>2021-03-12T07:28:57+01:00</lastmod>
-  </url><url>
-    <loc>https://ahjadann.github.io/tags/</loc>
     <lastmod>2021-03-12T07:28:57+01:00</lastmod>
   </url><url>
     <loc>https://ahjadann.github.io/tags/zsh/</loc>
