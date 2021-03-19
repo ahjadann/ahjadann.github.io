@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 13 Mar 2021 15:15:54 +0100</lastBuildDate><atom:link href="https://ahjadann.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Mar 2021 18:27:34 +0100</lastBuildDate><atom:link href="https://ahjadann.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iterm2</title>
+      <link>https://ahjadann.github.io/tags/iterm2/</link>
+      <pubDate>Fri, 19 Mar 2021 18:27:34 +0100</pubDate>
+      
+      <guid>https://ahjadann.github.io/tags/iterm2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shell prompt</title>
+      <link>https://ahjadann.github.io/tags/shell-prompt/</link>
+      <pubDate>Fri, 19 Mar 2021 18:27:34 +0100</pubDate>
+      
+      <guid>https://ahjadann.github.io/tags/shell-prompt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zsh</title>
+      <link>https://ahjadann.github.io/tags/zsh/</link>
+      <pubDate>Fri, 19 Mar 2021 18:27:34 +0100</pubDate>
+      
+      <guid>https://ahjadann.github.io/tags/zsh/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>creativity</title>
       <link>https://ahjadann.github.io/tags/creativity/</link>
@@ -50,33 +77,6 @@
       <pubDate>Fri, 12 Mar 2021 19:28:20 +0100</pubDate>
       
       <guid>https://ahjadann.github.io/tags/cinelli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iterm2</title>
-      <link>https://ahjadann.github.io/tags/iterm2/</link>
-      <pubDate>Fri, 12 Mar 2021 07:28:57 +0100</pubDate>
-      
-      <guid>https://ahjadann.github.io/tags/iterm2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shell prompt</title>
-      <link>https://ahjadann.github.io/tags/shell-prompt/</link>
-      <pubDate>Fri, 12 Mar 2021 07:28:57 +0100</pubDate>
-      
-      <guid>https://ahjadann.github.io/tags/shell-prompt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>zsh</title>
-      <link>https://ahjadann.github.io/tags/zsh/</link>
-      <pubDate>Fri, 12 Mar 2021 07:28:57 +0100</pubDate>
-      
-      <guid>https://ahjadann.github.io/tags/zsh/</guid>
       <description></description>
     </item>
     

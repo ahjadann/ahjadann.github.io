@@ -7,7 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 12 Mar 2021 07:28:57 +0100</lastBuildDate><atom:link href="https://ahjadann.github.io/tags/shell-prompt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Mar 2021 18:27:34 +0100</lastBuildDate><atom:link href="https://ahjadann.github.io/tags/shell-prompt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terminal: Going north</title>
+      <link>https://ahjadann.github.io/posts/2021/03/terminal-going-north/</link>
+      <pubDate>Fri, 19 Mar 2021 18:27:34 +0100</pubDate>
+      
+      <guid>https://ahjadann.github.io/posts/2021/03/terminal-going-north/</guid>
+      <description>Following this post I&amp;rsquo;m leaving the old configuration behind for something Nord based.
+zsh prompt https://github.com/romkatv/powerlevel10k
+This is faster than spaceship.
+vim color scheme https://github.com/arcticicestudio/nord-vim/
+From the Nord theme ports.
+iTerm2 color scheme https://github.com/arcticicestudio/nord-iterm2/
+Also from the Nord theme ports.</description>
+    </item>
+    
     <item>
       <title>More shell themes</title>
       <link>https://ahjadann.github.io/posts/2021/03/more-shell-themes/</link>

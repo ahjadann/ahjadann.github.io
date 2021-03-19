@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>zsh on Neat Fireplace</title>
-    <link>https://ahjadann.github.io/tags/zsh/</link>
-    <description>Recent content in zsh on Neat Fireplace</description>
+    <title>terminal on Neat Fireplace</title>
+    <link>https://ahjadann.github.io/categories/terminal/</link>
+    <description>Recent content in terminal on Neat Fireplace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 19 Mar 2021 18:27:34 +0100</lastBuildDate><atom:link href="https://ahjadann.github.io/tags/zsh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Mar 2021 18:27:34 +0100</lastBuildDate><atom:link href="https://ahjadann.github.io/categories/terminal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Terminal: Going north</title>
       <link>https://ahjadann.github.io/posts/2021/03/terminal-going-north/</link>

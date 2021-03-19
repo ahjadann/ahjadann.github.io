@@ -6,8 +6,35 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-gb</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sat, 13 Mar 2021 15:15:54 +0100</lastBuildDate>
+        <lastBuildDate>Fri, 19 Mar 2021 18:27:34 +0100</lastBuildDate>
         <atom:link href="https://ahjadann.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Terminal: Going north</title>
+            <link>https://ahjadann.github.io/posts/2021/03/terminal-going-north/</link>
+            <pubDate>Fri, 19 Mar 2021 18:27:34 +0100</pubDate>
+            
+            <guid>https://ahjadann.github.io/posts/2021/03/terminal-going-north/</guid>
+            <description>Following this post I&amp;rsquo;m leaving the old configuration behind for something Nord based.
+zsh prompt https://github.com/romkatv/powerlevel10k
+This is faster than spaceship.
+vim color scheme https://github.com/arcticicestudio/nord-vim/
+From the Nord theme ports.
+iTerm2 color scheme https://github.com/arcticicestudio/nord-iterm2/
+Also from the Nord theme ports.</description>
+            <content type="html"><![CDATA[<p><a href="https://ahjadann.github.io/posts/2021/03/more-shell-themes/" title="More terminal themes">Following this post</a> I&rsquo;m leaving the
+<a href="https://ahjadann.github.io/posts/2020/07/terminal-overhaul/">old configuration behind</a> for <a href="https://www.nordtheme.com">something <em>Nord</em> based</a>.</p>
+<h2 id="zsh-prompt">zsh prompt</h2>
+<p><a href="https://github.com/romkatv/powerlevel10k">https://github.com/romkatv/powerlevel10k</a></p>
+<p>This is faster than <a href="https://github.com/denysdovhan/spaceship-prompt">spaceship</a>.</p>
+<h2 id="vim-color-scheme">vim color scheme</h2>
+<p><a href="https://github.com/arcticicestudio/nord-vim/">https://github.com/arcticicestudio/nord-vim/</a></p>
+<p>From the <a href="https://www.nordtheme.com">Nord theme</a> ports.</p>
+<h2 id="iterm2-color-scheme">iTerm2 color scheme</h2>
+<p><a href="https://github.com/arcticicestudio/nord-iterm2/">https://github.com/arcticicestudio/nord-iterm2/</a></p>
+<p>Also from the <a href="https://www.nordtheme.com">Nord theme</a> ports.</p>
+]]></content>
+        </item>
         
         <item>
             <title>Creative phase II - Minimal</title>
