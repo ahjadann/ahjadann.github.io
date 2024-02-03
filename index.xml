@@ -5,118 +5,72 @@
     <link>https://ahjadann.github.io/</link>
     <description>Recent content on Neat Fireplace</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
+    <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 19 Mar 2021 18:27:34 +0100</lastBuildDate><atom:link href="https://ahjadann.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Feb 2024 16:16:45 +0100</lastBuildDate>
+    <atom:link href="https://ahjadann.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Terminal: Going north</title>
       <link>https://ahjadann.github.io/posts/2021/03/terminal-going-north/</link>
       <pubDate>Fri, 19 Mar 2021 18:27:34 +0100</pubDate>
-      
       <guid>https://ahjadann.github.io/posts/2021/03/terminal-going-north/</guid>
-      <description>Following this post I&amp;rsquo;m leaving the old configuration behind for something Nord based.
-zsh prompt https://github.com/romkatv/powerlevel10k
-This is faster than spaceship.
-vim color scheme https://github.com/arcticicestudio/nord-vim/
-From the Nord theme ports.
-iTerm2 color scheme https://github.com/arcticicestudio/nord-iterm2/
-Also from the Nord theme ports.</description>
+      <description>Following this post I&amp;rsquo;m leaving the old configuration behind for something Nord based.&#xA;zsh prompt https://github.com/romkatv/powerlevel10k&#xA;This is faster than spaceship.&#xA;vim color scheme https://github.com/arcticicestudio/nord-vim/&#xA;From the Nord theme ports.&#xA;iTerm2 color scheme https://github.com/arcticicestudio/nord-iterm2/&#xA;Also from the Nord theme ports.</description>
     </item>
-    
     <item>
       <title>Creative phase II - Minimal</title>
       <link>https://ahjadann.github.io/posts/2021/03/creative-phase-ii-minimal/</link>
       <pubDate>Sat, 13 Mar 2021 15:15:54 +0100</pubDate>
-      
       <guid>https://ahjadann.github.io/posts/2021/03/creative-phase-ii-minimal/</guid>
-      <description>There have been some creative vibes in November 2020 which led to fiddling around with Affinity Designer and the Apple Pencil. Post 2/2.
-Toying around with Affinity Designer led to various other results.
-Ensō The hand-drawn Zen circle Ensō symbolizing absolute enlightenment.
-Mountains Triangle mountains.</description>
+      <description>There have been some creative vibes in November 2020 which led to fiddling around with Affinity Designer and the Apple Pencil. Post 2/2.&#xA;Toying around with Affinity Designer led to various other results.&#xA;Ensō The hand-drawn Zen circle Ensō symbolizing absolute enlightenment.&#xA;Mountains Triangle mountains.</description>
     </item>
-    
     <item>
       <title>Creative phase I - Cinelli</title>
       <link>https://ahjadann.github.io/posts/2021/03/creative-phase-i-cinelli/</link>
       <pubDate>Fri, 12 Mar 2021 19:28:20 +0100</pubDate>
-      
       <guid>https://ahjadann.github.io/posts/2021/03/creative-phase-i-cinelli/</guid>
-      <description>There have been some creative vibes in November 2020 which led to fiddling around with Affinity Designer and the Apple Pencil. Post 1/2.
-As mentioned here, after a lifelong wait from April to November &amp;lsquo;20, there&amp;rsquo;s a new bike in town. I&amp;rsquo;m so in love that I started toying around with the iPad, Pencil &amp;amp; Affinity Designer which led to the images below.
-Cinelli Logo Hand crafted Logo as a puzzle piece for Nemo&amp;rsquo;s down tube.</description>
+      <description>There have been some creative vibes in November 2020 which led to fiddling around with Affinity Designer and the Apple Pencil. Post 1/2.&#xA;As mentioned here, after a lifelong wait from April to November &amp;lsquo;20, there&amp;rsquo;s a new bike in town. I&amp;rsquo;m so in love that I started toying around with the iPad, Pencil &amp;amp; Affinity Designer which led to the images below.&#xA;Cinelli Logo Hand crafted Logo as a puzzle piece for Nemo&amp;rsquo;s down tube.</description>
     </item>
-    
     <item>
       <title>More shell themes</title>
       <link>https://ahjadann.github.io/posts/2021/03/more-shell-themes/</link>
       <pubDate>Fri, 12 Mar 2021 07:28:57 +0100</pubDate>
-      
       <guid>https://ahjadann.github.io/posts/2021/03/more-shell-themes/</guid>
-      <description>There&amp;rsquo;s a number of cool shell themes I found via.
- powerlevel10k (Lean Style) starship Nord Pure  </description>
+      <description>There&amp;rsquo;s a number of cool shell themes I found via.&#xA;powerlevel10k (Lean Style) starship Nord Pure </description>
     </item>
-    
     <item>
       <title>Hugo theme update workflow</title>
       <link>https://ahjadann.github.io/posts/2020/10/hugo-theme-update-workflow/</link>
       <pubDate>Sun, 04 Oct 2020 15:49:35 +0200</pubDate>
-      
       <guid>https://ahjadann.github.io/posts/2020/10/hugo-theme-update-workflow/</guid>
-      <description>Step 1: $ cd &amp;lt;project&amp;gt;/themes/hello-friend-ng
-Step 2: $ git fetch
-Step 3: $ git pull
-Step 4: $ cd &amp;lt;project&amp;gt;
-Step 5: $ git commit -m &amp;quot;Update Theme&amp;quot;
-Step 6: $ git push</description>
+      <description>Step 1: $ cd &amp;lt;project&amp;gt;/themes/hello-friend-ng&#xA;Step 2: $ git fetch&#xA;Step 3: $ git pull&#xA;Step 4: $ cd &amp;lt;project&amp;gt;&#xA;Step 5: $ git commit -m &amp;quot;Update Theme&amp;quot;&#xA;Step 6: $ git push</description>
     </item>
-    
     <item>
       <title>Hugo blog post workflow</title>
       <link>https://ahjadann.github.io/posts/2020/07/hugo-blog-post-workflow/</link>
       <pubDate>Sun, 19 Jul 2020 11:02:40 +0200</pubDate>
-      
       <guid>https://ahjadann.github.io/posts/2020/07/hugo-blog-post-workflow/</guid>
-      <description>This is the project setup
-Step 1: $ hugo new posts/&amp;lt;post_name&amp;gt;.md
-Step 2: Edit post and preview with $ hugo server -D
-Step 3: In blog post change draft to false
-Step 4: Run $ ./deploy.sh &amp;quot;Commit message&amp;quot;
-Step 5: Commit changes to public.
- In case of submodule errors check https://gist.github.com/myusuf3/7f645819ded92bda6677</description>
+      <description>This is the project setup&#xA;Step 1: $ hugo new posts/&amp;lt;post_name&amp;gt;.md&#xA;Step 2: Edit post and preview with $ hugo server -D&#xA;Step 3: In blog post change draft to false&#xA;Step 4: Run $ ./deploy.sh &amp;quot;Commit message&amp;quot;&#xA;Step 5: Commit changes to public.&#xA;In case of submodule errors check https://gist.github.com/myusuf3/7f645819ded92bda6677</description>
     </item>
-    
     <item>
       <title>Terminal overhaul</title>
       <link>https://ahjadann.github.io/posts/2020/07/terminal-overhaul/</link>
       <pubDate>Sun, 19 Jul 2020 09:50:00 +0200</pubDate>
-      
       <guid>https://ahjadann.github.io/posts/2020/07/terminal-overhaul/</guid>
-      <description>My dot files https://github.com/ahjadann/dotfiles
-zsh prompt https://github.com/denysdovhan/spaceship-prompt
-oh-my-zsh plugins https://github.com/ohmyzsh/ohmyzsh#plugins
- brew git docker docker-compose history zsh-autosuggestions zsh-syntax-highlighting  Vim plugins  VundleVim/Vundle.vim (Plugin manager) vim-airline/vim-airline (status bar) vim-airline/vim-airline-themes (status bar themes) airblade/vim-gitgutter (git gutter) morhetz/gruvbox (theme) ycm-core/YouCompleteMe (auto completer)  iTerm2 color scheme https://github.com/MartinSeeler/iterm2-material-design
-Howtos Spaceship prompt, fonts, iterm2, oh-my-zsh:
- https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7 https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961 https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c  </description>
+      <description>My dot files https://github.com/ahjadann/dotfiles&#xA;zsh prompt https://github.com/denysdovhan/spaceship-prompt&#xA;oh-my-zsh plugins https://github.com/ohmyzsh/ohmyzsh#plugins&#xA;brew git docker docker-compose history zsh-autosuggestions zsh-syntax-highlighting Vim plugins VundleVim/Vundle.vim (Plugin manager) vim-airline/vim-airline (status bar) vim-airline/vim-airline-themes (status bar themes) airblade/vim-gitgutter (git gutter) morhetz/gruvbox (theme) ycm-core/YouCompleteMe (auto completer) iTerm2 color scheme https://github.com/MartinSeeler/iterm2-material-design&#xA;Howtos Spaceship prompt, fonts, iterm2, oh-my-zsh:&#xA;https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7 https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961 https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c </description>
     </item>
-    
     <item>
       <title>stayhome shopping spree</title>
       <link>https://ahjadann.github.io/posts/2020/06/stayhome-shopping-spree/</link>
       <pubDate>Fri, 05 Jun 2020 14:45:45 +0200</pubDate>
-      
       <guid>https://ahjadann.github.io/posts/2020/06/stayhome-shopping-spree/</guid>
-      <description>#stayhome shopping spree.
-Blackstar JJN-20R MkII Cinelli Nemo Gravel </description>
+      <description>#stayhome shopping spree.&#xA;Blackstar JJN-20R MkII Cinelli Nemo Gravel </description>
     </item>
-    
     <item>
       <title>Hey there</title>
       <link>https://ahjadann.github.io/posts/2020/03/hey-there/</link>
       <pubDate>Fri, 27 Mar 2020 13:10:22 +0100</pubDate>
-      
       <guid>https://ahjadann.github.io/posts/2020/03/hey-there/</guid>
       <description>Let&amp;rsquo;s just see where this takes us.</description>
     </item>
-    
   </channel>
 </rss>

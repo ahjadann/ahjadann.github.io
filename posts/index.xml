@@ -4,7 +4,7 @@
         <link>https://ahjadann.github.io/posts/</link>
         <description>Recent content in Posts on Neat Fireplace</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-gb</language>
+        <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Fri, 19 Mar 2021 18:27:34 +0100</lastBuildDate>
         <atom:link href="https://ahjadann.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -88,7 +88,7 @@ led to the images below.</p>
             
             <guid>https://ahjadann.github.io/posts/2021/03/more-shell-themes/</guid>
             <description>There&amp;rsquo;s a number of cool shell themes I found via.
- powerlevel10k (Lean Style) starship Nord Pure  </description>
+powerlevel10k (Lean Style) starship Nord Pure </description>
             <content type="html"><![CDATA[<p>There&rsquo;s a number of cool shell themes I found <a href="https://twitter.com/engineering_bae/status/1367912731442024451">via</a>.</p>
 <ul>
 <li><a href="https://github.com/romkatv/powerlevel10k">powerlevel10k (Lean Style)</a></li>
@@ -132,7 +132,7 @@ Step 2: Edit post and preview with $ hugo server -D
 Step 3: In blog post change draft to false
 Step 4: Run $ ./deploy.sh &amp;quot;Commit message&amp;quot;
 Step 5: Commit changes to public.
- In case of submodule errors check https://gist.github.com/myusuf3/7f645819ded92bda6677</description>
+In case of submodule errors check https://gist.github.com/myusuf3/7f645819ded92bda6677</description>
             <content type="html"><![CDATA[<p><a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/">This is the project setup</a></p>
 <p><strong>Step 1</strong>: <code>$ hugo new posts/&lt;post_name&gt;.md</code></p>
 <p><strong>Step 2</strong>: Edit post and preview with <code>$ hugo server -D</code></p>
@@ -153,9 +153,9 @@ Step 5: Commit changes to public.
             <description>My dot files https://github.com/ahjadann/dotfiles
 zsh prompt https://github.com/denysdovhan/spaceship-prompt
 oh-my-zsh plugins https://github.com/ohmyzsh/ohmyzsh#plugins
- brew git docker docker-compose history zsh-autosuggestions zsh-syntax-highlighting  Vim plugins  VundleVim/Vundle.vim (Plugin manager) vim-airline/vim-airline (status bar) vim-airline/vim-airline-themes (status bar themes) airblade/vim-gitgutter (git gutter) morhetz/gruvbox (theme) ycm-core/YouCompleteMe (auto completer)  iTerm2 color scheme https://github.com/MartinSeeler/iterm2-material-design
+brew git docker docker-compose history zsh-autosuggestions zsh-syntax-highlighting Vim plugins VundleVim/Vundle.vim (Plugin manager) vim-airline/vim-airline (status bar) vim-airline/vim-airline-themes (status bar themes) airblade/vim-gitgutter (git gutter) morhetz/gruvbox (theme) ycm-core/YouCompleteMe (auto completer) iTerm2 color scheme https://github.com/MartinSeeler/iterm2-material-design
 Howtos Spaceship prompt, fonts, iterm2, oh-my-zsh:
- https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7 https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961 https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c  </description>
+https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7 https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961 https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c </description>
             <content type="html"><![CDATA[<h2 id="my-dot-files">My dot files</h2>
 <p><a href="https://github.com/ahjadann/dotfiles">https://github.com/ahjadann/dotfiles</a></p>
 <h2 id="zsh-prompt">zsh prompt</h2>
@@ -202,7 +202,7 @@ Howtos Spaceship prompt, fonts, iterm2, oh-my-zsh:
 Blackstar JJN-20R MkII Cinelli Nemo Gravel </description>
             <content type="html"><![CDATA[<p><strong>#stayhome shopping spree.</strong></p>
 <p><a href="https://www.blackstaramps.com/uk/ranges/jjn-20r-mkii">Blackstar JJN-20R MkII</a>
-<img src="https://www.blackstaramps.com/img/ranges/jjn-20r-mkii/jjn-20r-mkii-combo.jpg" alt="alt text" title="Blackstar JJN 20r Mk II"></p>
+<img src="https://de.blackstaramps.com/wp-content/uploads/sites/5/2021/05/JJN-20R-lean-right.jpg" alt="alt text" title="Blackstar JJN 20r Mk II"></p>
 <p><a href="https://cinelli.it/en/prodotti/nemo-gravel-en/">Cinelli Nemo Gravel</a>
 <img src="https://cinelli.it/wp-content/uploads/2019/09/nemo_gravel_bici.jpg" alt="alt text" title="Cinelli Nemo Gravel"></p>
 ]]></content>
